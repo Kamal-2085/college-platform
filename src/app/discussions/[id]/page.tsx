@@ -98,7 +98,7 @@ export default function DiscussionDetailPage() {
               answerCount: prev.answerCount + 1,
               updatedAt: new Date().toISOString(),
             }
-          : prev
+          : prev,
       );
     } catch (err) {
       setError("Failed to post answer");
@@ -108,11 +108,16 @@ export default function DiscussionDetailPage() {
   };
 
   return (
-    <div className={`${sora.className} min-h-screen bg-[#f4efe7] text-zinc-900`}>
+    <div
+      className={`${sora.className} min-h-screen bg-[#f4efe7] text-zinc-900`}
+    >
       <div className="bg-[radial-gradient(80%_60%_at_50%_0%,#f5d6a4_0%,#f4efe7_55%,#efe9dd_100%)]">
         <div className="mx-auto w-full max-w-5xl px-6 pb-12 pt-16">
-          <Link href="/discussions" className="text-sm font-semibold text-zinc-600">
-            <- Back to discussions
+          <Link
+            href="/discussions"
+            className="text-sm font-semibold text-zinc-600"
+          >
+            {"<-"} Back to discussions
           </Link>
 
           {loading ? (
@@ -130,12 +135,12 @@ export default function DiscussionDetailPage() {
               <p className="text-xs uppercase tracking-[0.2em] text-zinc-500">
                 Discussion
               </p>
-              <h1 className={`${fraunces.className} mt-4 text-3xl font-semibold`}>
+              <h1
+                className={`${fraunces.className} mt-4 text-3xl font-semibold`}
+              >
                 {discussion.title}
               </h1>
-              <p className="mt-4 text-base text-zinc-700">
-                {discussion.body}
-              </p>
+              <p className="mt-4 text-base text-zinc-700">{discussion.body}</p>
               <div className="mt-6 flex flex-wrap items-center gap-4 text-xs text-zinc-500">
                 <span>Asked by {discussion.authorName}</span>
                 <span>{formatDate(discussion.createdAt)}</span>
