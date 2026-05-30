@@ -70,7 +70,7 @@ export async function POST(request: NextRequest) {
     }
 
     const body = await request.json();
-    const collegeIds = Array.isArray(body?.collegeIds)
+    const collegeIds: string[] = Array.isArray(body?.collegeIds)
       ? body.collegeIds.filter(
           (id: unknown): id is string => typeof id === "string",
         )
@@ -94,7 +94,7 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    const uniqueIds = [...new Set(collegeIds)];
+    const uniqueIds = [...new Set<string>(collegeIds)];
     if (uniqueIds.length !== collegeIds.length) {
       return NextResponse.json(
         { success: false, message: "Duplicate college IDs are not allowed" },
@@ -156,7 +156,7 @@ export async function DELETE(request: NextRequest) {
     }
 
     const body = await request.json();
-    const collegeIds = Array.isArray(body?.collegeIds)
+    const collegeIds: string[] = Array.isArray(body?.collegeIds)
       ? body.collegeIds.filter(
           (id: unknown): id is string => typeof id === "string",
         )
@@ -180,7 +180,7 @@ export async function DELETE(request: NextRequest) {
       );
     }
 
-    const uniqueIds = [...new Set(collegeIds)];
+    const uniqueIds = [...new Set<string>(collegeIds)];
     if (uniqueIds.length !== collegeIds.length) {
       return NextResponse.json(
         { success: false, message: "Duplicate college IDs are not allowed" },
