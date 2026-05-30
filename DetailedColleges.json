@@ -1,0 +1,1185 @@
+[
+  {
+    "name": "Indian Institute of Technology Madras",
+    "overview": "Rank 1 Overall - Top university in India; Rank 1 Engineering; Rank 1 Innovation; Rank 1 SDG; Rank 2 Research Institution; Rank 13 Management (NIRF)",
+    "courses": ["B.Tech Computer Science", "B.Tech Electrical Engineering", "M.Tech VLSI", "MBA"],
+    "reviews": ["Top-tier coding environment and active startup incubators.", "Highly demanding exams but the absolute best market value."],
+    "placements": "85%"
+  },
+  {
+    "name": "Indian Institute of Science",
+    "overview": "Rank 2 Overall, Rank 1 University - Premier science and research institution; Rank 1 Research Institution; Rank 3 Innovation (NIRF)",
+    "courses": ["B.Sc Research", "M.Tech Artificial Intelligence", "Ph.D. Quantum Computing"],
+    "reviews": ["Unrivaled research facilities and heavily funded laboratory spaces.", "Most students opt for higher academia, but industry R&D pay is immense."],
+    "placements": "90%"
+  },
+  {
+    "name": "Indian Institute of Technology Bombay",
+    "overview": "Rank 3 Overall - Top IIT in India; Rank 3 Engineering; Rank 2 Innovation; Rank 4 Research Institution; Rank 14 Management (NIRF)",
+    "courses": ["B.Tech Computer Science", "B.Tech Mechanical Engineering", "M.Des Interaction Design"],
+    "reviews": ["Incredible cultural fest scene alongside cut-throat peer competition.", "Brand equity provides access to absolute elite international postings."],
+    "placements": "70%"
+  },
+  {
+    "name": "Indian Institute of Technology Delhi",
+    "overview": "Rank 4 Overall - Premier technology institute in Delhi; Rank 2 Engineering; Rank 3 Research Institution; Rank 4 Management; Rank 7 Innovation; Rank 8 SDG (NIRF)",
+    "courses": ["B.Tech Computer Science", "B.Tech Biochemical Engineering", "M.Tech Data Science"],
+    "reviews": ["The core technical placement cell is deeply systematic and strict.", "Superb location in the national capital brings endless corporate tie-ups."],
+    "placements": "80%"
+  },
+  {
+    "name": "Indian Institute of Technology Kanpur",
+    "overview": "Rank 5 Overall - Top IIT in Uttar Pradesh; Rank 4 Engineering; Rank 5 Innovation; Rank 6 Research Institution (NIRF)",
+    "courses": ["B.Tech Computer Science", "B.Tech Aerospace Engineering", "M.Sc Statistics"],
+    "reviews": ["Known for having one of the toughest academic curricula in the country.", "Airstrip inside the campus adds amazing hands-on value for aerospace engineering."],
+    "placements": "82%"
+  },
+  {
+    "name": "Indian Institute of Technology Kharagpur",
+    "overview": "Rank 6 Overall - Oldest IIT in India; Rank 5 Engineering; Rank 5 Research Institution; Rank 12 Management; Rank 3 Architecture and Planning; Rank 4 Innovation; Rank 6 Law (NIRF)",
+    "courses": ["B.Tech Computer Science", "B.Arch Architecture", "LL.B Intellectual Property Law"],
+    "reviews": ["Massive campus area with deep heritage and historical alumni connections.", "Excellent performance in inter-IIT competitions and core engineering."],
+    "placements": "80%"
+  },
+  {
+    "name": "Indian Institute of Technology Roorkee",
+    "overview": "Rank 7 Overall - Top IIT in Uttarakhand; Rank 6 Engineering; Rank 8 Research Institution; Rank 1 Architecture and Planning; Rank 8 Innovation; Rank 6 SDG (NIRF)",
+    "courses": ["B.Tech Civil Engineering", "B.Tech Computer Science", "B.Arch Architecture"],
+    "reviews": ["The best architecture and civil frameworks across the nation.", "Beautiful Himalayan foothills backdrop paired with massive sports infrastructure."],
+    "placements": "81%"
+  },
+  {
+    "name": "All India Institute of Medical Sciences, Delhi",
+    "overview": "Rank 8 Overall - Premier medical institution in India; Rank 1 Medical; Rank 1 Dental; Rank 11 Research Institution (NIRF)",
+    "courses": ["MBBS", "B.Sc Nursing", "MD Radiodiagnosis", "MDS Oral Surgery"],
+    "reviews": ["Extremely massive clinical exposure due to massive daily patient footfall.", "Nominal academic fees paired with top-tier research fellowships across India."],
+    "placements": "99%"
+  },
+  {
+    "name": "Jawaharlal Nehru University",
+    "overview": "Rank 9 Overall, Rank 2 University - Renowned central university in Delhi; Rank 7 SDG (NIRF)",
+    "courses": ["BA Hons International Relations", "MA Political Science", "Ph.D. Economics"],
+    "reviews": ["Rich socio-political debate environments and highly distinguished social science wings.", "Hostel charges are highly affordable for students from lower financial backgrounds."],
+    "placements": "65%"
+  },
+  {
+    "name": "Banaras Hindu University",
+    "overview": "Rank 10 Overall, Rank 6 University - One of the largest residential universities in Asia; Rank 4 Agriculture and Allied Sectors; Rank 6 Medical; Rank 15 Dental (Faculty of Dental Sciences rank withdrawn*); Rank 16 Research Institution; Rank 10 SDG (NIRF)",
+    "courses": ["B.Sc Agriculture", "MBBS", "BA Arts", "B.Com Commerce"],
+    "reviews": ["Enormous cultural heritage within a massive self-contained campus system.", "Vast options across diverse educational fields, though administrative systems are slow."],
+    "placements": "70%"
+  },
+  {
+    "name": "Indian Institute of Technology Guwahati",
+    "overview": "Rank 11 Overall - Premier IIT in Northeast India; Rank 8 Engineering; Rank 10 Research Institution (NIRF)",
+    "courses": ["B.Tech Computer Science", "B.Tech Engineering Physics", "M.Des Design"],
+    "reviews": ["Arguably the most picturesque lakefront campus landscape across India.", "Incredibly powerful supercomputing labs and modern design departments."],
+    "placements": "78%"
+  },
+  {
+    "name": "Indian Institute of Technology Hyderabad",
+    "overview": "Rank 12 Overall - Top IIT in Telangana; Rank 7 Engineering; Rank 6 Innovation; Rank 15 Research Institution (NIRF)",
+    "courses": ["B.Tech Computer Science", "B.Tech Biomedical Engineering", "M.Tech 5G Communications"],
+    "reviews": ["Strong institutional ties with Japan provide elite international research pathways.", "Highly focused on next-generation tech like AI, 5G, and advanced mobility."],
+    "placements": "76%"
+  },
+  {
+    "name": "Jamia Millia Islamia",
+    "overview": "Rank 13 Overall, Rank 4 University - Central university in New Delhi; Rank 17 Dental; Rank 5 Architecture and Planning; Rank 8 Law (NIRF)",
+    "courses": ["B.Arch Architecture", "BA LL.B", "MA Mass Communication"],
+    "reviews": ["The media and journalism course packages rank among the finest in the subcontinent.", "Good value for money with heavily experienced and grounded core faculty."],
+    "placements": "68%"
+  },
+  {
+    "name": "Manipal Academy of Higher Education",
+    "overview": "Rank 14 Overall, Rank 3 University - Top private university in Karnataka; Rank 19 Research Institution; Rank 5 SDG (NIRF)",
+    "courses": ["B.Tech Computer Science", "BBA", "MD General Medicine"],
+    "reviews": ["Highly cosmopolitan student diversity with world-class residential facilities.", "Premium infrastructure costs mean higher fees, but it's matched with great campus amenities."],
+    "placements": "75%"
+  },
+  {
+    "name": "University of Delhi",
+    "overview": "Rank 15 Overall, Rank 5 University - One of the largest universities in India; Rank 12 Research Institution (NIRF)",
+    "courses": ["B.Com Hons", "BA Hons Economics", "M.Sc Chemistry"],
+    "reviews": ["The ultimate standard for commerce and arts academic ecosystems in India.", "Vast network of colleges, though infrastructure quality varies between campuses."],
+    "placements": "70%"
+  },
+  {
+    "name": "Birla Institute of Technology & Science - Pilani",
+    "overview": "Rank 16 Overall, Rank 7 University - Top private engineering university in Rajasthan; Rank 11 Engineering; Rank 18 Research Institution; Rank 2 Pharmacy (NIRF)",
+    "courses": ["B.E. Computer Science", "B.E. Electronics & Instrumentation", "B.Pharm"],
+    "reviews": ["The strict zero-attendance policy allows immense freedom to dive into personal startups.", "The practice school option ensures extensive internship credits at elite corporates."],
+    "placements": "88%"
+  },
+  {
+    "name": "Amrita Vishwa Vidyapeetham",
+    "overview": "Rank 17 Overall, Rank 8 University - Leading private university in Tamil Nadu; Rank 9 Medical; Rank 14 Dental; Rank 14 Pharmacy (NIRF)",
+    "courses": ["B.Tech Computer Science", "B.Pharm", "MBBS"],
+    "reviews": ["Strict disciplinary environment on campus but excellent lab infrastructure.", "Strong values-based education structure paired with good placements."],
+    "placements": "72%"
+  },
+  {
+    "name": "Jadavpur University",
+    "overview": "Rank 18 Overall, Rank 9 University - Premier State Public University in India; Rank 1 State Public University; Rank 18 Engineering; Rank 16 Architecture and Planning (NIRF)",
+    "courses": ["B.E. Computer Science", "B.E. Mechanical Engineering", "MA English"],
+    "reviews": ["Incredibly low academic fee model matching the highest returns on investment.", "Exceptional research culture, though campus politics can occasionally disrupt dates."],
+    "placements": "84%"
+  },
+  {
+    "name": "Aligarh Muslim University",
+    "overview": "Rank 19 Overall, Rank 10 University - Historic central university in Uttar Pradesh; Rank 9 Law (NIRF)",
+    "courses": ["BA LL.B", "B.Tech Electrical Engineering", "MA History"],
+    "reviews": ["Deeply historical institution keeping heritage alive through massive student bodies.", "Extensive library networks with great collections of rare manuscripts."],
+    "placements": "65%"
+  },
+  {
+    "name": "S.R.M. Institute of Science and Technology",
+    "overview": "Rank 11 University - Leading private university in Tamil Nadu; Rank 14 Engineering; Rank 18 Medical; Rank 18 Architecture and Planning; Rank 10 Pharmacy; Rank 4 SDG (NIRF)",
+    "courses": ["B.Tech Computer Science", "B.Arch", "B.Pharm"],
+    "reviews": ["Enormous campus size packed with state-of-the-art computer labs.", "Massive placement drives bring hundreds of IT companies to campus yearly."],
+    "placements": "72%"
+  },
+  {
+    "name": "Homi Bhabha National Institute",
+    "overview": "Rank 12 University - Premier research institution in Maharashtra; Rank 7 Research Institution (NIRF)",
+    "courses": ["M.Tech Nuclear Engineering", "Ph.D. Physics", "M.Sc Research"],
+    "reviews": ["Deeply integrated with BARC and India's elite nuclear energy development wings.", "Meant for top pure-science research minds; not a typical commercial college."],
+    "placements": "95%"
+  },
+  {
+    "name": "Saveetha Institute of Medical and Technical Sciences",
+    "overview": "Rank 13 University - Leading medical and technical institution in Tamil Nadu; Rank 11 Medical; Rank 2 Dental; Rank 19 Law; Rank 13 Research Institution (NIRF)",
+    "courses": ["BDS", "MBBS", "BA LL.B"],
+    "reviews": ["Renowned dental infrastructure with massive patient intake and practical chairs.", "Highly modernized infrastructure but rules are strictly enforced."],
+    "placements": "74%"
+  },
+  {
+    "name": "Vellore Institute of Technology",
+    "overview": "Rank 14 University - Top private engineering university in Tamil Nadu; Rank 16 Engineering; Rank 14 Research Institution (NIRF)",
+    "courses": ["B.Tech Computer Science", "B.Tech Electronics", "MCA"],
+    "reviews": ["Massive batch sizes mean strong peer competition across technical tracks.", "Superb modern coding infrastructure and high international academic connections."],
+    "placements": "78%"
+  },
+  {
+    "name": "Siksha 'O' Anusandhan",
+    "overview": "Rank 15 University - Leading private university in Odisha; Rank 15 Medical; Rank 9 Dental; Rank 10 Law (NIRF)",
+    "courses": ["MBBS", "BDS", "B.Tech Computer Science"],
+    "reviews": ["Rapidly growing medical wing and strong tech infrastructure facilities in eastern India.", "Well-disciplined hostel ecosystems paired with good corporate tie-ups."],
+    "placements": "70%"
+  },
+  {
+    "name": "Indian Agricultural Research Institute",
+    "overview": "Rank 16 University - Premier agricultural research institution in India; Rank 1 Agriculture and Allied Sectors; Rank 2 SDG (NIRF)",
+    "courses": ["M.Sc Agronomy", "Ph.D. Plant Genetics", "B.Sc Agriculture"],
+    "reviews": ["The premier hub for agricultural innovations and green revolution developments.", "Elite research minds with extensive government agricultural backing."],
+    "placements": "85%"
+  },
+  {
+    "name": "Kalinga Institute of Industrial Technology",
+    "overview": "Rank 17 University - Top private university in Odisha; Rank 14 Law (NIRF)",
+    "courses": ["B.Tech Computer Science", "BA LL.B", "MBA"],
+    "reviews": ["Outstanding sports infrastructure and massive amphitheater classrooms.", "Highly streamlined placement cell that ensures excellent bulk IT job drives."],
+    "placements": "76%"
+  },
+  {
+    "name": "University of Hyderabad",
+    "overview": "Rank 18 University - Premier central university in Telangana (NIRF)",
+    "courses": ["Integrated M.Sc Physics", "MA Sociology", "M.Tech Computer Science"],
+    "reviews": ["Beautiful bio-diverse campus area providing a peaceful environment for deep learning.", "Highly collaborative postgraduate research labs with excellent faculty."],
+    "placements": "68%"
+  },
+  {
+    "name": "Chandigarh University",
+    "overview": "Rank 19 University - Leading private university in Punjab; Rank 14 Architecture and Planning; Rank 15 Pharmacy (NIRF)",
+    "courses": ["B.Tech Computer Science", "B.Pharm", "B.Arch"],
+    "reviews": ["Highly aggressive placement model focusing heavily on modern soft-skills training.", "Expansive dynamic campus life with lots of tech events and fests."],
+    "placements": "73%"
+  },
+  {
+    "name": "Hindu College",
+    "overview": "Rank 1 College - Top ranked college in India (NIRF)",
+    "courses": ["BA Hons Political Science", "B.Sc Hons Physics", "M.A. English"],
+    "reviews": ["The absolute elite destination for political and liberal arts studies in India.", "Incredibly vibrant student discussions at the famous campus cross-roads."],
+    "placements": "65%"
+  },
+  {
+    "name": "Miranda House",
+    "overview": "Rank 2 College - Leading women's college in Delhi (NIRF)",
+    "courses": ["BA Hons English", "B.Sc Hons Chemistry", "MA History"],
+    "reviews": ["Outstanding academic heritage fostering women's leadership for decades.", "Excellent red-brick aesthetic architecture with peaceful campus lawns."],
+    "placements": "60%"
+  },
+  {
+    "name": "Hans Raj College",
+    "overview": "Rank 3 College - Premier Delhi University college (NIRF)",
+    "courses": ["B.Sc Hons Computer Science", "B.Com Hons", "BA Hons Economics"],
+    "reviews": ["Exceptional faculty for commerce and science branches alike.", "Rich alumni network and very active student-run corporate placement societies."],
+    "placements": "68%"
+  },
+  {
+    "name": "Kirori Mal College",
+    "overview": "Rank 4 College - Renowned institution in Delhi (NIRF)",
+    "courses": ["B.Sc Hons Physics", "BA Hons Geography", "B.Com Program"],
+    "reviews": ["Famous theater culture and dramatic arts societies of national renown.", "Strongly grounded academic environment with supportive professors."],
+    "placements": "62%"
+  },
+  {
+    "name": "St. Stephen's College",
+    "overview": "Rank 5 College - Elite liberal arts and science college in Delhi (NIRF)",
+    "courses": ["BA Hons History", "B.Sc Hons Mathematics", "BA Hons Economics"],
+    "reviews": ["Unique residence culture and strict tutorial systems ensuring individual care.", "Extremely high cut-offs yielding one of the most elite peer environments."],
+    "placements": "70%"
+  },
+  {
+    "name": "Rama Krishna Mission Vivekananda Centenary College",
+    "overview": "Rank 6 College - Top premier college in West Bengal (NIRF)",
+    "courses": ["B.Sc Hons Chemistry", "B.Sc Hons Zoology", "M.Sc Plant Science"],
+    "reviews": ["Deeply disciplined, value-oriented atmosphere run by the monastic framework.", "Exceptional laboratory standards for chemical and biological sciences."],
+    "placements": "75%"
+  },
+  {
+    "name": "Atma Ram Sanatan Dharm College",
+    "overview": "Rank 7 College - Highly rated college in Delhi (NIRF)",
+    "courses": ["B.Sc Hons Electronics", "BA Hons Political Science", "B.Com Hons"],
+    "reviews": ["Massive growth in research paper publications and infrastructure quality lately.", "Strongly rising placement drives for corporate analytics roles."],
+    "placements": "60%"
+  },
+  {
+    "name": "St. Xavier's College",
+    "overview": "Rank 8 College - Historic and prestigious college in West Bengal (NIRF)",
+    "courses": ["B.Sc Hons Statistics", "B.Com Hons", "Integrated M.Sc Biotechnology"],
+    "reviews": ["Deeply historic corridors maintaining elite discipline and mandatory attendance.", "The corporate placement cell brings top consulting and finance firms down yearly."],
+    "placements": "75%"
+  },
+  {
+    "name": "PSGR Krishnammal College for Women",
+    "overview": "Rank 9 College - Elite women's college in Tamil Nadu (NIRF)",
+    "courses": ["B.Sc Computer Science", "B.Com", "MA English Literature"],
+    "reviews": ["Leading the way in digital learning frameworks for women in the region.", "Highly secure campus with helpful career development modules."],
+    "placements": "68%"
+  },
+  {
+    "name": "PSG College of Arts and Science",
+    "overview": "Rank 10 College - Renowned institution in Tamil Nadu (NIRF)",
+    "courses": ["B.Sc Electronics", "B.Com Corporate Secretaryship", "MSW"],
+    "reviews": ["Deep industrial linkages within Coimbatore's textile and manufacturing hub.", "Excellent laboratory equipment and focus on applied project work."],
+    "placements": "70%"
+  },
+  {
+    "name": "Sri Venkateswara College",
+    "overview": "Rank 11 College - Reputed South Campus DU college (NIRF)",
+    "courses": ["B.Sc Hons Biological Sciences", "B.Com Hons", "BA Hons Economics"],
+    "reviews": ["The premier crown jewel of Delhi University's South Campus hub.", "Outstanding balancing of high-end biology research with corporate commerce fests."],
+    "placements": "66%"
+  },
+  {
+    "name": "Rajagiri College of Social Sciences",
+    "overview": "Rank 12 College - Leading college in Kerala (NIRF)",
+    "courses": ["MSW Social Work", "BBA", "B.Com"],
+    "reviews": ["Exceptional benchmarks in social service frameworks and management skills.", "Clean, modern, and values-driven institutional structure."],
+    "placements": "72%"
+  },
+  {
+    "name": "Deshbandhu College",
+    "overview": "Rank 13 College - Prominent institution in Delhi (NIRF)",
+    "courses": ["B.Sc Hons Physics", "BA Hons History", "B.Com"],
+    "reviews": ["A heavily upgraded campus infrastructure including new massive library setups.", "Strong academic improvements and heavily active student NCC wings."],
+    "placements": "58%"
+  },
+  {
+    "name": "Loyola College",
+    "overview": "Rank 14 College - Highly prestigious college in Tamil Nadu (NIRF)",
+    "courses": ["B.Sc Visual Communication", "B.Com Hons", "BA Economics"],
+    "reviews": ["The ultimate destination for visual communication and media training pathways.", "Deep legacy of cultivating elite civil servants, corporate heads, and actors."],
+    "placements": "76%"
+  },
+  {
+    "name": "Presidency College",
+    "overview": "Rank 15 College - Historic premier college in Tamil Nadu (NIRF)",
+    "courses": ["BA History", "B.Sc Hons Mathematics", "MA Corporate Economics"],
+    "reviews": ["Deep historical pedigree with beachfront views and classical colonial arches.", "Exceptional arts track records, though campus political groups are highly active."],
+    "placements": "62%"
+  },
+  {
+    "name": "Madras Christian College",
+    "overview": "Rank 16 College - Renowned historic college in Tamil Nadu (NIRF)",
+    "courses": ["B.Sc Zoology", "BA Political Science", "B.Com"],
+    "reviews": ["Massive scenic campus with a rich legacy of student student-council democracy.", "Deep liberal arts foundations with very practical science methodologies."],
+    "placements": "68%"
+  },
+  {
+    "name": "Lady Shri Ram College For Women",
+    "overview": "Rank 17 College - Elite premier women's college in Delhi (NIRF)",
+    "courses": ["BA Hons Economics", "BA Hons Psychology", "B.Com Hons"],
+    "reviews": ["Outstanding corporate analytics and consultancy placements among arts schools.", "Cultivates a highly articulate, progressive, and globally aware peer circle."],
+    "placements": "78%"
+  },
+  {
+    "name": "Shri Ram College of Commerce",
+    "overview": "Rank 18 College - Top tier commerce institution in India (NIRF)",
+    "courses": ["B.Com Hons", "BA Hons Economics", "M.Com"],
+    "reviews": ["The undisputed absolute peak of corporate business and commerce education.", "Unmatched packages from global financial consulting conglomerates during fests."],
+    "placements": "85%"
+  },
+  {
+    "name": "Ramakrishna Mission Vidyamandira",
+    "overview": "Rank 19 College - Reputed residential college in West Bengal (NIRF)",
+    "courses": ["B.Sc Hons Physics", "BA Hons Sanskrit", "M.Sc Chemistry"],
+    "reviews": ["Mandatory residential structure focused heavily on simple living and high thinking.", "Outstanding academic record with high success metrics in national entrance exams."],
+    "placements": "70%"
+  },
+  {
+    "name": "Academy of Scientific and Innovative Research",
+    "overview": "Rank 9 Research Institution - Premier innovative research university in Uttar Pradesh (NIRF)",
+    "courses": ["Ph.D. Engineering Sciences", "Integrated M.Tech-Ph.D.", "Ph.D. Biological Sciences"],
+    "reviews": ["Deeply linked with CSIR labs nationwide, giving access to top scientific equipment.", "Geared explicitly toward technological advancements rather than common industrial routes."],
+    "placements": "92%"
+  },
+  {
+    "name": "Tata Institute of Fundamental Research",
+    "overview": "Rank 17 Research Institution - Elite premier destination for advanced theoretical and natural sciences research (NIRF)",
+    "courses": ["Ph.D. Physics", "Ph.D. Mathematics", "Integrated M.Sc-Ph.D. Biology"],
+    "reviews": ["World-class theoretical research with no commercial course clutter.", "Outstanding stipends and direct mentorship under global research leads."],
+    "placements": "96%"
+  },
+  {
+    "name": "National Institute of Technology Tiruchirappalli",
+    "overview": "Rank 9 Engineering; Rank 9 Architecture and Planning - Premier National Institute of Technology (NIT Trichy) in India (NIRF)",
+    "courses": ["B.Tech Computer Science", "B.Tech Electronics", "B.Arch Architecture"],
+    "reviews": ["The topmost premier NIT campus with corporate pull matching the top tier IITs.", "Outstanding coding cultures and deep technical club traditions."],
+    "placements": "86%"
+  },
+  {
+    "name": "Indian Institute of Technology (Banaras Hindu University) Varanasi",
+    "overview": "Rank 10 Engineering - Elite technology engineering wing of BHU (NIRF)",
+    "courses": ["B.Tech Metallurgical Engineering", "B.Tech Computer Science", "IDD B.Tech+M.Tech"],
+    "reviews": ["Outstanding coding culture and absolute domination in core engineering tracks.", "Vast old alumni base that provides massive networking during job seasons."],
+    "placements": "80%"
+  },
+  {
+    "name": "Indian Institute of Technology Indore",
+    "overview": "Rank 12 Engineering - Top modern tier IIT in Madhya Pradesh (NIRF)",
+    "courses": ["B.Tech Computer Science", "B.Tech Electrical Engineering", "M.Tech Space Engineering"],
+    "reviews": ["Highly futuristic lab setups and pristine newly built modern hostels.", "Excellent execution of research partnerships with global foreign universities."],
+    "placements": "78%"
+  },
+  {
+    "name": "National Institute of Technology Rourkela",
+    "overview": "Rank 13 Engineering; Rank 7 Architecture and Planning; Rank 9 SDG (NIRF)",
+    "courses": ["B.Tech Ceramic Engineering", "B.Tech Computer Science", "B.Arch"],
+    "reviews": ["One of the largest campuses in the country with heavy heavy core industry setups.", "Superb placement cell that brings high analytics and tech giants down."],
+    "placements": "82%"
+  },
+  {
+    "name": "Indian Institute of Technology (Indian School of Mines)",
+    "overview": "Historic premier institute renowned for earth sciences and core technical engineering fields in Jharkhand (NIRF)",
+    "courses": ["B.Tech Mining Engineering", "B.Tech Computer Science", "M.Tech Petroleum"],
+    "reviews": ["The global standard benchmark for mining and earth sciences engineering fields.", "Rapidly expanding computer science hubs yielding exceptional market outcomes."],
+    "placements": "78%"
+  },
+  {
+    "name": "National Institute of Technology Karnataka, Surathkal",
+    "overview": "Rank 17 Engineering - Top-tier prestigious coastal National Institute of Technology in Karnataka (NIRF)",
+    "courses": ["B.Tech Information Technology", "B.Tech Mechanical", "M.Tech Marine Structures"],
+    "reviews": ["Boasts a private beachfront giving unmatched campus lifestyle qualities.", "Incredible records in software development and electronics placements."],
+    "placements": "84%"
+  },
+  {
+    "name": "Indian Institute of Technology Patna",
+    "overview": "Rank 19 Engineering; Rank 13 Architecture and Planning - Highly progressive tier-2 IIT campus in Bihar (NIRF)",
+    "courses": ["B.Tech Computer Science", "B.Tech Electrical", "M.Tech Mechatronics"],
+    "reviews": ["Highly growing coding frameworks with strong performances in hackathons.", "Modern facilities, though campus landscaping is still in active expansion steps."],
+    "placements": "75%"
+  },
+  {
+    "name": "Indian Institute of Management Ahmedabad",
+    "overview": "Rank 1 Management - India's premier flagship business administration institution (NIRF)",
+    "courses": ["PGP Management", "PGPX Executive", "FABM Food & Agribusiness"],
+    "reviews": ["The famous Red Brick campus utilizing rigorous case study models.", "Guarantees premium leadership consulting roles across the absolute globe."],
+    "placements": "100%"
+  },
+  {
+    "name": "Indian Institute of Management Bangalore",
+    "overview": "Rank 2 Management - Elite flagship business school in Karnataka (NIRF)",
+    "courses": ["PGP Management", "PGP Business Analytics", "Ph.D. Management"],
+    "reviews": ["Stunning granite structure located perfectly in the digital startup hub of India.", "The premier tracking spot for elite private equity and product management jobs."],
+    "placements": "100%"
+  },
+  {
+    "name": "Indian Institute of Management Kozhikode",
+    "overview": "Rank 3 Management - Highly prestigious business school in Kerala (NIRF)",
+    "courses": ["PGP Management", "PGP Finance", "PGP Liberal Studies"],
+    "reviews": ["Stunning resort-like campus built over twins hills with fantastic ocean breezes.", "Pioneering gender diversity frameworks with major finance corporate pull."],
+    "placements": "100%"
+  },
+  {
+    "name": "Indian Institute of Management Lucknow",
+    "overview": "Rank 5 Management - Top-tier elite management hub in Uttar Pradesh (NIRF)",
+    "courses": ["PGP Management", "PGP Agribusiness", "PGSM Sustainable Management"],
+    "reviews": ["Known affectionately as the academic pressure cooker with elite outcomes.", "The premier benchmark for FMCG marketing strategy and corporate consulting."],
+    "placements": "100%"
+  },
+  {
+    "name": "Indian Institute of Management, Mumbai",
+    "overview": "Rank 6 Management - Premier institute formerly renowned for industrial engineering and supply chain leadership in Maharashtra (NIRF)",
+    "courses": ["MBA General", "MBA Sustainability", "MBA Supply Chain"],
+    "reviews": ["Unrivaled corporate pull for logistics, supply-chain, and operations roles.", "Perfect location right in India's financial capital ensuring daily executive visits."],
+    "placements": "100%"
+  },
+  {
+    "name": "Indian Institute of Management Calcutta",
+    "overview": "Rank 7 Management - Prestigious quantitative-focused finance hub in West Bengal (NIRF)",
+    "courses": ["PGP Management", "Executive MBA", "PGDBA Business Analytics"],
+    "reviews": ["The ultimate quantitative and finance center of management education in Asia.", "Beautiful campus with seven lakes creating a unique lifestyle atmosphere."],
+    "placements": "100%"
+  },
+  {
+    "name": "Indian Institute of Management Indore",
+    "overview": "Rank 8 Management - Highly progressive flagship business school in Madhya Pradesh (NIRF)",
+    "courses": ["PGP Management", "IPM Integrated 5-Year", "Executive PGP"],
+    "reviews": ["Pioneered the highly successful integrated 5-year management track from high school.", "Massive batch sizing but managed cleanly with exceptional corporate pull."],
+    "placements": "100%"
+  },
+  {
+    "name": "Management Development Institute",
+    "overview": "Rank 9 Management - Elite corporate-aligned private management school in Haryana (NIRF)",
+    "courses": ["PGDM", "PGDM Human Resources", "PGDM International Business"],
+    "reviews": ["Located right in the center of Gurugram's massive corporate corporate office clusters.", "Outstanding corporate networking yielding premier campus placement options."],
+    "placements": "100%"
+  },
+  {
+    "name": "XLRI - Xavier School of Management",
+    "overview": "Rank 10 Management - Historic premier destination renowned across South Asia for Human Resource Management in Jharkhand (NIRF)",
+    "courses": ["PGDM Human Resource", "PGDM Business Management", "Executive PGP"],
+    "reviews": ["The undisputed absolute finest human resources management system in Asia.", "Deeply unified student culture built upon strong values and ethics frameworks."],
+    "placements": "100%"
+  },
+  {
+    "name": "Symbiosis Institute of Business Management",
+    "overview": "Rank 11 Management - Prominent flagship private business school in Maharashtra (NIRF)",
+    "courses": ["MBA", "MBA Innovation & Entrepreneurship", "Executive MBA"],
+    "reviews": ["Stunning hilltop campus with premium standard infrastructure systems.", "Strong corporate branding translates into excellent FMCG and consulting jobs."],
+    "placements": "98%"
+  },
+  {
+    "name": "Indian Institute of Management Raipur",
+    "overview": "Rank 15 Management - Rapidly scaling management campus in Chhattisgarh (NIRF)",
+    "courses": ["PGP Management", "Executive FPM", "Ph.D."],
+    "reviews": ["Modern campus with smart integration scaling up quickly in structural growth.", "Strong developments in corporate tie-ups and data analytics pipelines."],
+    "placements": "100%"
+  },
+  {
+    "name": "Indian Institute of Management Tiruchirappalli",
+    "overview": "Rank 16 Management - Elite second-generation business school in Tamil Nadu (NIRF)",
+    "courses": ["PGP Management", "PGP Business Analytics", "Executive MBA"],
+    "reviews": ["Excellent modern library infrastructure open around the clock.", "Solid growth across corporate finance and strategy consulting roles."],
+    "placements": "100%"
+  },
+  {
+    "name": "Indian Institute of Foreign Trade",
+    "overview": "Rank 17 Management - Premier specialized trade policy and international business school in Delhi (NIRF)",
+    "courses": ["MBA International Business", "MA Economics Trade", "Executive PGP"],
+    "reviews": ["The premier authority on trade statistics, forex strategy, and global logistics.", "Rigorous academic schedule balanced with top corporate trade-house roles."],
+    "placements": "100%"
+  },
+  {
+    "name": "Indian Institute of Management Ranchi",
+    "overview": "Rank 18 Management - Progressive flagship business campus in Jharkhand (NIRF)",
+    "courses": ["PGP Management", "PGP Human Resources", "IPM Integrated"],
+    "reviews": ["Excelling fast with multiple specialized management divisions like HR.", "Pragmatic academic approach with a newly fully operational clean campus center."],
+    "placements": "100%"
+  },
+  {
+    "name": "Indian Institute of Management Rohtak",
+    "overview": "Rank 19 Management - Fast-growing strategic business school in Haryana (NIRF)",
+    "courses": ["PGP Management", "IPM Integrated", "Executive PGP"],
+    "reviews": ["The closest new IIM to the national capital region layout.", "Exceptional emphasis on business analytics pipelines and corporate diversity goals."],
+    "placements": "100%"
+  },
+  {
+    "name": "Jamia Hamdard",
+    "overview": "Rank 1 Pharmacy - Premier destination for pharmaceutical education and research in India (NIRF)",
+    "courses": ["B.Pharm", "M.Pharm Pharmaceutics", "Ph.D. Pharmacology"],
+    "reviews": ["The ultimate research hub for medicine compounding and pharmaceutical development.", "Exceptional research laboratories backed by extensive publication records."],
+    "placements": "84%"
+  },
+  {
+    "name": "Panajab University",
+    "overview": "Rank 3 State Public University; Rank 3 Pharmacy - Historic highly acclaimed state university campus in Chandigarh (NIRF)",
+    "courses": ["B.Pharm", "M.Pharm Pharmaceutical Chemistry", "Ph.D."],
+    "reviews": ["Deeply historic campus setup inside a highly systematic city plan.", "Outstanding pharma research values with highly distinguished veteran faculty."],
+    "placements": "78%"
+  },
+  {
+    "name": "JSS College of Pharmacy",
+    "overview": "Rank 4 Pharmacy - Highly prestigious institute for medical and clinical research in Tamil Nadu (NIRF)",
+    "courses": ["B.Pharm", "Pharm.D", "M.Pharm Industrial Pharmacy"],
+    "reviews": ["Serene academic ecosystem in the hills of Ooty with great specialized labs.", "Highly valued clinical pharmacy structures across global hospital setups."],
+    "placements": "82%"
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research Hyderabad",
+    "overview": "Rank 5 Pharmacy - Elite national institute dedicated to cutting-edge research in Telangana (NIRF)",
+    "courses": ["M.S. Pharm", "M.Tech Pharma", "Ph.D. Regulatory Toxicology"],
+    "reviews": ["Elite national importance setup centered perfectly inside Hyderabad’s pharma valley.", "Outstanding outcomes across advanced drug development fields."],
+    "placements": "92%"
+  },
+  {
+    "name": "Institute of Chemical Technology",
+    "overview": "Rank 6 Pharmacy - Globally renowned research hub for chemical engineering and pharma tech in Maharashtra (NIRF)",
+    "courses": ["B.Tech Pharma Tech", "M.Tech Chemical Engineering", "Ph.D."],
+    "reviews": ["Unmatched history in tech patents and massive chemical corporate backing.", "Very competitive admissions with unparalleled alumni industrialists."],
+    "placements": "86%"
+  },
+  {
+    "name": "JSS College of Pharmacy, Mysore",
+    "overview": "Rank 7 Pharmacy - Top tier pharmaceutical learning ecosystem in Karnataka (NIRF)",
+    "courses": ["B.Pharm", "Pharm.D", "M.Pharm Quality Assurance"],
+    "reviews": ["Excellent diagnostic training alongside high pharma industry integration.", "Pragmatic laboratory courses with well-maintained analytical instrumentation."],
+    "placements": "76%"
+  },
+  {
+    "name": "Manipal College of Pharmaceutical Sciences, Manipal",
+    "overview": "Rank 8 Pharmacy - Premier private pharmacy learning institute in Karnataka (NIRF)",
+    "courses": ["B.Pharm", "M.Pharm Pharmacology", "Pharm.D"],
+    "reviews": ["World-class operational lab equipment matching international industry standard levels.", "Superb placement linkages with global multi-national clinical research wings."],
+    "placements": "80%"
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research, Mohali",
+    "overview": "Rank 9 Pharmacy - Flagship premier pharmaceutical research institute in Punjab (NIRF)",
+    "courses": ["M.S. Pharm", "M.B.A. Pharma", "Ph.D. Medicinal Chemistry"],
+    "reviews": ["The founding flagship premier NIPER campus framework in the country.", "Incredible standards of drug analytics research and institutional standing."],
+    "placements": "90%"
+  },
+  {
+    "name": "SVKM`s Narsee Monjee Institute of Management Studies",
+    "overview": "Rank 11 Pharmacy - Prominent private multimodal university branch in Maharashtra (NIRF)",
+    "courses": ["B.Pharm + MBA Pharma Tech", "M.Pharm", "Ph.D."],
+    "reviews": ["Unique integrated structural layout combining core technical pharma with management.", "Excellent corporate management placement lines in corporate medical setups."],
+    "placements": "78%"
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research Guwahati",
+    "overview": "Rank 12 Pharmacy - Premier national institution driving biotech and healthcare innovations in Assam (NIRF)",
+    "courses": ["M.S. Pharm Biotechnology", "M.Tech Pharma Engineering", "Ph.D."],
+    "reviews": ["Excellent newly constructed campus spaces tracking medical engineering paths.", "Strong institutional pull across biotech development and health logistics."],
+    "placements": "85%"
+  },
+  {
+    "name": "Lovely Professional University",
+    "overview": "Rank 13 Pharmacy - Large scale progressive private campus in Punjab (NIRF)",
+    "courses": ["B.Pharm", "M.Pharm Practice", "Ph.D. Pharmacy"],
+    "reviews": ["Massive private campus scale featuring extremely modern lab analytical tech.", "Wide industrial corporate network driving massive campus recruitment events."],
+    "placements": "70%"
+  },
+  {
+    "name": "Chitkara University",
+    "overview": "Rank 16 Pharmacy - Leading tech-aligned corporate private university in Punjab (NIRF)",
+    "courses": ["B.Pharm", "M.Pharm Pharmaceutics", "Pharm.D"],
+    "reviews": ["Highly focused on industry skill metrics and clinical training workflows.", "Regular corporate mock drives prepare graduates well for job market steps."],
+    "placements": "72%"
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research Raebareli",
+    "overview": "Rank 17 Pharmacy - Specialized strategic research institute in Uttar Pradesh (NIRF)",
+    "courses": ["M.S. Pharm Pharmaceutics", "Ph.D. Medicinal Chemistry"],
+    "reviews": ["Highly focused research faculty prioritizing drug synthesis and design arrays.", "Excellent modern equipment pipelines though campus sizing is focused and compact."],
+    "placements": "84%"
+  },
+  {
+    "name": "Amity University",
+    "overview": "Rank 18 Pharmacy; Rank 15 Agriculture and Allied Sectors - Prominent global standard private research campus in Uttar Pradesh (NIRF)",
+    "courses": ["B.Pharm", "M.Pharm Technology", "B.Sc Agriculture"],
+    "reviews": ["Expansive campus systems with global infrastructural facility allocations.", "Good platform for interdisciplinary biotech research models and corporate drives."],
+    "placements": "68%"
+  },
+  {
+    "name": "Delhi Pharmaceutical Sciences and Research University",
+    "overview": "Rank 19 Pharmacy - India's first specialized pharmaceutical sciences state university in Delhi (NIRF)",
+    "courses": ["B.Pharm", "M.Pharm Clinical Research", "BPT Physiotherapy"],
+    "reviews": ["India’s very first specialized university dedicated explicitly to pharma tracks.", "Superb location in Delhi yields direct regular contact with medical standard bodies."],
+    "placements": "74%"
+  },
+  {
+    "name": "Post Graduate Institute of Medical Education and Research",
+    "overview": "Rank 2 Medical - Renowned postgraduate medical education and research landmark in Chandigarh (NIRF)",
+    "courses": ["MD General Medicine", "MS General Surgery", "DM Cardiology"],
+    "reviews": ["The pinnacle landmark for complex medical diagnostics training after MBBS.", "Extremely high operational workloads providing unmatched diagnostic mastery."],
+    "placements": "98%"
+  },
+  {
+    "name": "Christian Medical College",
+    "overview": "Rank 3 Medical - Elite historic medical institution and healthcare ecosystem in Tamil Nadu (NIRF)",
+    "courses": ["MBBS", "MD Paediatrics", "B.Sc Nursing"],
+    "reviews": ["Deeply ethical, values-guided clinical training with global medical acclaim.", "Outstanding multi-specialty framework focusing closely on primary community care."],
+    "placements": "96%"
+  },
+  {
+    "name": "Jawaharlal Institute of Post Graduate Medical Education & Research",
+    "overview": "Rank 4 Medical - Premier central institution for medical excellence in Pondicherry (NIRF)",
+    "courses": ["MBBS", "MD Internal Medicine", "Ph.D. Medical Biochemistry"],
+    "reviews": ["Exceptional central government funding grants pristine infrastructure access.", "Vast patient variety within a serene seaside union territory climate."],
+    "placements": "95%"
+  },
+  {
+    "name": "Sanjay Gandhi Postgraduate Institute of Medical Sciences",
+    "overview": "Rank 5 Medical - Highly prestigious super-specialty medical sciences institute in Uttar Pradesh (NIRF)",
+    "courses": ["DM Gastroenterology", "M.Ch Neurosurgery", "MD Pathology"],
+    "reviews": ["Elite specialized center with high focus on surgical research papers.", "Extremely advanced operating setups and intensive patient diagnostic tracks."],
+    "placements": "96%"
+  },
+  {
+    "name": "National Institute of Mental Health & Neuro Sciences, Bangalore",
+    "overview": "Rank 7 Medical - India's apex premier neuroscience and mental health care institution in Karnataka (NIRF)",
+    "courses": ["MD Psychiatry", "M.Ch Neurosurgery", "Ph.D. Neurophysiology"],
+    "reviews": ["The undisputed absolute crown apex center for brain and psychiatric studies.", "World-recognized research labs with highly specialized patient cases."],
+    "placements": "98%"
+  },
+  {
+    "name": "King George`s Medical University",
+    "overview": "Rank 8 Medical; Rank 7 State Public University; Rank 7 Dental - Highly historic and prestigious medical university setup in Uttar Pradesh (NIRF)",
+    "courses": ["MBBS", "BDS", "MD Anaesthesia"],
+    "reviews": ["Stunning majestic historical architecture coupled with enormous clinical patient inflow.", "Deeply respected legacy across northern medical practitioner networks."],
+    "placements": "92%"
+  },
+  {
+    "name": "Kasturba Medical College, Manipal",
+    "overview": "Rank 10 Medical - Elite private hospital-aligned premier medical institution in Karnataka (NIRF)",
+    "courses": ["MBBS", "MD Radio-Diagnosis", "MS Orthopaedics"],
+    "reviews": ["Outstanding international standard infrastructure and premium simulation labs.", "Highly respected global medical program certifications with wide alumni networks."],
+    "placements": "94%"
+  },
+  {
+    "name": "Dr. D. Y. Patil Vidyapeeth",
+    "overview": "Rank 12 Medical; Rank 4 Dental - Progressive landmark private medical university center in Maharashtra (NIRF)",
+    "courses": ["MBBS", "BDS", "MD Dermatology"],
+    "reviews": ["Highly high-end infrastructure with clean, modernized clinical wards.", "High cost of education but offers fantastic medical equipment and labs."],
+    "placements": "78%"
+  },
+  {
+    "name": "All India Institute of Medical Sciences Rishikesh",
+    "overview": "Rank 13 Medical - Premier national medical institute serving northern healthcare corridors in Uttarakhand (NIRF)",
+    "courses": ["MBBS", "MD Paediatrics", "MS General Surgery"],
+    "reviews": ["Highly progressive new AIIMS setup dealing with extensive regional pathology.", "Beautiful location combined with highly strict diagnostic learning schedules."],
+    "placements": "92%"
+  },
+  {
+    "name": "All India Institute of Medical Sciences Bhubaneswar",
+    "overview": "Rank 14 Medical - Leading national clinical excellence and education center in Odisha (NIRF)",
+    "courses": ["MBBS", "MD Radiotherapy", "B.Sc Nursing"],
+    "reviews": ["The standout model among new AIIMS wings with extensive modern hospital setups.", "Exceptional research foundations and brilliant medical student records."],
+    "placements": "93%"
+  },
+  {
+    "name": "Madras Medical College & Government General Hospital, Chennai",
+    "overview": "Rank 16 Medical - Exceptionally historic premier medical college and state framework hospital in Tamil Nadu (NIRF)",
+    "courses": ["MBBS", "MD General Medicine", "MS Ophthalmology"],
+    "reviews": ["One of the oldest and most legendary clinical teaching environments in Asia.", "Unbelievable density of daily patient encounters creating top diagnostic intuition."],
+    "placements": "95%"
+  },
+  {
+    "name": "Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram",
+    "overview": "Rank 17 Medical - Elite national importance specialized institution centered around biomedical engineering and advanced cardiac/neurological specialties in Kerala (NIRF)",
+    "courses": ["DM Neurology", "M.Ch Cardiovascular Surgery", "Ph.D. Biomaterials"],
+    "reviews": ["Highly specialized fusion of advanced biomedical engineering with cardiac care.", "Top tier research publications and high-tech corporate device patent designs."],
+    "placements": "96%"
+  },
+  {
+    "name": "All India Institute of Medical Sciences Jodhpur",
+    "overview": "Rank 19 Medical - Highly progressive premier national medical setup in Rajasthan (NIRF)",
+    "courses": ["MBBS", "MD Psychiatry", "MS Orthopaedics"],
+    "reviews": ["Outstanding telemedicine infrastructure and excellent campus layouts.", "Highly advanced robotic surgery training labs for senior resident tracks."],
+    "placements": "91%"
+  },
+  {
+    "name": "Maulana Azad Institute of Dental Sciences",
+    "overview": "Rank 3 Dental - Premier apex public institute for dental surgery and clinical excellence in Delhi (NIRF)",
+    "courses": ["BDS", "MDS Orthodontics", "MDS Prosthodontics"],
+    "reviews": ["The topmost apex hub for clinical dental surgery training inside Delhi.", "Intense patient flow ensuring students master complex maxillofacial routes."],
+    "placements": "90%"
+  },
+  {
+    "name": "Manipal College of Dental Sciences, Manipal",
+    "overview": "Rank 5 Dental - Top tier private dental college leading in clinical diagnostics and education in Karnataka (NIRF)",
+    "courses": ["BDS", "MDS Oral Pathology", "MDS Periodontics"],
+    "reviews": ["Outstanding global infrastructure models and world-class dental simulation units.", "Highly valued internationally for private dental clinic corporate lines."],
+    "placements": "88%"
+  },
+  {
+    "name": "A.B.Shetty Memorial Institute of Dental Sciences",
+    "overview": "Rank 6 Dental - Highly prestigious destination for dental healthcare and specialized surgeries in Karnataka (NIRF)",
+    "courses": ["BDS", "MDS Oral & Maxillofacial Surgery"],
+    "reviews": ["Excellent emphasis on rural dental healthcare camps and advanced surgeries.", "Highly supportive clinical mentors and modern diagnostic workflows."],
+    "placements": "84%"
+  },
+  {
+    "name": "SRM Dental College",
+    "overview": "Rank 8 Dental - Prominent specialized dental education wing of SRM in Tamil Nadu (NIRF)",
+    "courses": ["BDS", "MDS Conservative Dentistry", "MDS Pedodontics"],
+    "reviews": ["Highly modernized dental equipment arrays across massive urban clinic units.", "Excellent campus placement drives for private hospital consulting paths."],
+    "placements": "78%"
+  },
+  {
+    "name": "JSS Dental College and Hospital",
+    "overview": "Rank 10 Dental - Reowned learning center for stomatological advancement and care in Karnataka (NIRF)",
+    "courses": ["BDS", "MDS Oral Medicine", "MDS Periodontology"],
+    "reviews": ["Brilliant clinical diagnostics tracking stomp-pathology advancements.", "Grounded faculty offering strong practical patient evaluation modules."],
+    "placements": "76%"
+  },
+  {
+    "name": "Manipal College of Dental Sciences, Mangalore",
+    "overview": "Rank 11 Dental - Top tier satellite campus specializing in advanced oral and maxillofacial pathways in Karnataka (NIRF)",
+    "courses": ["BDS", "MDS Public Health Dentistry", "MDS Endodontics"],
+    "reviews": ["Superb satellite clinical networks across coastal regions with high footfalls.", "Brilliant diagnostic infrastructures aligned with top health networks."],
+    "placements": "85%"
+  },
+  {
+    "name": "Postgraduate Institute of Dental Sciences",
+    "overview": "Rank 12 Dental - Top ranked public dental institute driving professional clinical pathways in Haryana (NIRF)",
+    "courses": ["BDS", "MDS Prosthodontics", "MDS Oral Surgery"],
+    "reviews": ["Highly economical public clinical fees yielding immense daily patient variations.", "Strong state institutional standing with rigorous exam parameters."],
+    "placements": "82%"
+  },
+  {
+    "name": "Sri Ramachandra Institute of Higher Education and Research",
+    "overview": "Rank 13 Dental - High quality multi spectrum university clinical setup in Tamil Nadu (NIRF)",
+    "courses": ["BDS", "MDS Orthodontics", "MDS Pedodontics"],
+    "reviews": ["Massive healthcare university center with high diagnostic capabilities.", "Good academic atmosphere with deep industry internship structures."],
+    "placements": "75%"
+  },
+  {
+    "name": "Meenakshi Academy of Higher Education and Research",
+    "overview": "Rank 16 Dental - Respected health science academy delivering progressive dental clinical structures in Tamil Nadu (NIRF)",
+    "courses": ["BDS", "MDS Oral Medicine", "MDS Periodontics"],
+    "reviews": ["Progressive health sciences setup with continuous upgrades to lab structures.", "Strong practical clinic tracking though campus layout is relatively modest."],
+    "placements": "70%"
+  },
+  {
+    "name": "Nair Hospital Dental College",
+    "overview": "Rank 19 Dental - Landmark heritage dental hospital framework providing core urban dental paths in Maharashtra (NIRF)",
+    "courses": ["BDS", "MDS Prosthodontics", "MDS Periodontics"],
+    "reviews": ["Deeply historic heritage framework centered directly in South Mumbai's heart.", "Incredible urban pathology experience, although legacy buildings need renovation."],
+    "placements": "86%"
+  },
+  {
+    "name": "National Law School of India University",
+    "overview": "Rank 1 Law - Premier apex standard national law university flagship campus in Karnataka (NIRF)",
+    "courses": ["BA LL.B Hons", "LL.M Corporate Law", "Master of Public Policy"],
+    "reviews": ["The undisputed absolute Harvard of corporate legal studies in South Asia.", "Rigorous tri-mester system that builds unmatched legal research capacities."],
+    "placements": "94%"
+  },
+  {
+    "name": "National Law University",
+    "overview": "Rank 2 Law - Highly acclaimed premium legal education institutional campus in Delhi (NIRF)",
+    "courses": ["BA LL.B Hons", "LL.M Constitutional Law", "Ph.D."],
+    "reviews": ["Incredible proximity to the Supreme Court allows top tier lawyer visits.", "Superb performance across global international moot court championships."],
+    "placements": "90%"
+  },
+  {
+    "name": "Nalsar University of Law",
+    "overview": "Rank 3 Law - Exceptionally prestigious national university hub for jurisprudence and legal research in Telangana (NIRF)",
+    "courses": ["BA LL.B Hons", "LL.M Aviation Law", "IPR Advanced Diplomas"],
+    "reviews": ["Stunning open green campus culture focusing on high intellectual liberty.", "Unmatched rankings in international corporate law firm recruitment drives."],
+    "placements": "88%"
+  },
+  {
+    "name": "The West Bengal National University of Juridical Sciences",
+    "overview": "Rank 4 Law - Elite specialized landmark center for legal learning and statutory research in West Bengal (NIRF)",
+    "courses": ["BA LL.B Hons", "B.Sc LL.B", "LL.M Corporate Law"],
+    "reviews": ["Outstanding student-run societies and unbeatable corporate law firm outcomes.", "Deeply intellectual atmosphere with heavy focus on commercial arbitration."],
+    "placements": "86%"
+  },
+  {
+    "name": "Gujarat National Law University",
+    "overview": "Rank 5 Law - Premier comprehensive legal research institute framework in Gujarat (NIRF)",
+    "courses": ["BA LL.B Hons", "B.Com LL.B Hons", "LL.M Maritime Law"],
+    "reviews": ["Exceptional specializations in maritime law structures and commercial codes.", "Outstanding infrastructure investments with top tier mock court environments."],
+    "placements": "82%"
+  },
+  {
+    "name": "Symbiosis Law School, Pune",
+    "overview": "Rank 7 Law - High performance premium private law learning institute in Maharashtra (NIRF)",
+    "courses": ["BA LL.B Hons", "BBA LL.B Hons", "LL.M Business Law"],
+    "reviews": ["The finest private legal education setup with immense global corporate ties.", "Brilliant placement cells ensuring vast internships across top tier law firms."],
+    "placements": "80%"
+  },
+  {
+    "name": "Shanmugha Arts Science Technology & Research Academy",
+    "overview": "Rank 11 Law - Reputed multidisciplinary private university law department in Tamil Nadu (NIRF)",
+    "courses": ["BA LL.B Hons", "BBA LL.B Hons", "LL.M Corporate Law"],
+    "reviews": ["Strong multi-disciplinary campus structure with traditional academic discipline.", "Solid legal libraries with systematic tracking of legal journals."],
+    "placements": "70%"
+  },
+  {
+    "name": "Babasheb Bhimrao Ambedkar University",
+    "overview": "Rank 12 Law - Prominent central university statutory education setup in Uttar Pradesh (NIRF)",
+    "courses": ["BA LL.B", "LL.M Human Rights Law", "Ph.D."],
+    "reviews": ["Good central statutory framework tracking human rights and social justice laws.", "Spacious campus layouts, though administrative processing can see backlogs."],
+    "placements": "64%"
+  },
+  {
+    "name": "Cochin University of Science and Technology",
+    "overview": "Rank 6 State Public University; Rank 13 Law - Recognized progressive government legal center in Kerala (NIRF)",
+    "courses": ["LL.B", "B.Com LL.B Hons", "LL.M Intellectual Property"],
+    "reviews": ["Excellent focus on science-aligned intellectual property law models.", "Very economical public structure with highly supportive veteran legal guides."],
+    "placements": "68%"
+  },
+  {
+    "name": "National Law University, Cuttack",
+    "overview": "Rank 15 Law - Highly rated second-generation statutory national law university branch in Odisha (NIRF)",
+    "courses": ["BA LL.B Hons", "B.B.A. LL.B Hons", "LL.M Corporate Law"],
+    "reviews": ["Rapidly expanding legal campus with excellent modern library databases.", "Strong upward trends in corporate litigations and associate placements."],
+    "placements": "74%"
+  },
+  {
+    "name": "Dr. B. R. Ambedkar College of Law",
+    "overview": "Rank 16 Law - Respected university law branch framework in Andhra Pradesh (NIRF)",
+    "courses": ["LL.B 3-Year", "BA LL.B 5-Year", "LL.M Constitutional Law"],
+    "reviews": ["Respected public law framework with strong foundational roots in civil procedures.", "Produces high numbers of successful state judicial services magistrates."],
+    "placements": "62%"
+  },
+  {
+    "name": "Chanakya National Law University",
+    "overview": "Rank 17 Law - Renowned legislative legal system university platform in Bihar (NIRF)",
+    "courses": ["BA LL.B Hons", "B.B.A. LL.B Hons", "LL.M Corporate Law"],
+    "reviews": ["The premier statutory law platform inside Bihar with great moot records.", "Very dedicated focus on judicial civil exams and civil service paths."],
+    "placements": "72%"
+  },
+  {
+    "name": "UPES",
+    "overview": "Rank 18 Law - Progressive energy and corporate aligned private university law branch in Uttarakhand (NIRF)",
+    "courses": ["BA LL.B Hons Energy Law", "BBA LL.B Corporate", "LL.M"],
+    "reviews": ["Highly specialized niche focus on global energy, corporate tax, and infrastructure law.", "Modern tech-aligned campus spaces with strong corporate internship wings."],
+    "placements": "75%"
+  },
+  {
+    "name": "National Institute of Technology Calicut",
+    "overview": "Rank 2 Architecture and Planning - Premier National Institute of Technology renowned for technical and spatial design programs in Kerala (NIRF)",
+    "courses": ["B.Arch Architecture", "M.Plan Urban Planning", "B.Tech Civil"],
+    "reviews": ["Outstanding architectural design pedagogy matched with strong engineering roots.", "Beautiful green state ecosystem with massive practical studio spaces."],
+    "placements": "82%"
+  },
+  {
+    "name": "Indian Institute of Engineering Science and Technology, Shibpur",
+    "overview": "Rank 4 Architecture and Planning - Heritage public institution driving architectural research and structural technical design in West Bengal (NIRF)",
+    "courses": ["B.Arch Architecture", "M.Tech Structural Engineering", "Ph.D."],
+    "reviews": ["Deep legacy architectural wings with high focus on structural physics layouts.", "Outstanding alumni positions across national public infrastructure blocks."],
+    "placements": "76%"
+  },
+  {
+    "name": "Centre for Environmental Planning and Technology University",
+    "overview": "Rank 6 Architecture and Planning - Highly acclaimed premier private destination for habitat design, human settlement, and urban ecosystem planning in Gujarat (NIRF)",
+    "courses": ["B.Arch Architecture", "B.Design Habitat", "M.Urban Planning"],
+    "reviews": ["The undisputed finest innovative school for modern city planning and habitat maps.", "Exceptional studio freedom, zero exam-memorization, and pure project parameters."],
+    "placements": "85%"
+  },
+  {
+    "name": "School of Planning and Architecture New Delhi",
+    "overview": "Rank 8 Architecture and Planning - Apex standard national importance center for advanced regional planning and architectural study in Delhi (NIRF)",
+    "courses": ["B.Arch", "B.Plan Planning", "M.Arch Landscape Architecture"],
+    "reviews": ["The premier apex policy center for urban town layouts and architecture maps.", "Intense work schedules but guarantees positions in premier design studios globally."],
+    "placements": "84%"
+  },
+  {
+    "name": "Visvesvaraya National Institute of Technology, Nagpur",
+    "overview": "Rank 10 Architecture and Planning - Leading public technical university framework providing core spatial design streams in Maharashtra (NIRF)",
+    "courses": ["B.Arch Architecture", "M.Tech Urban Planning", "B.Tech Civil"],
+    "reviews": ["Excellent design modules balanced with technical structural calculations.", "Very active architectural club circles and top tier infrastructure software labs."],
+    "placements": "78%"
+  },
+  {
+    "name": "School of Planning and Architecture Bhopal",
+    "overview": "Rank 11 Architecture and Planning - Prestigious statutory institute of national importance tracking contemporary urban design developments in Madhya Pradesh (NIRF)",
+    "courses": ["B.Arch", "B.Plan", "M.Arch Conservation Architecture"],
+    "reviews": ["Excellent specialization pathways in historical heritage architectural conservation.", "Fantastic contemporary residential campus with high research paper footprints."],
+    "placements": "80%"
+  },
+  {
+    "name": "Malaviya National Institute of Technology",
+    "overview": "Rank 12 Architecture and Planning - Elite public engineering and technology system driving sustainable infrastructure paths in Rajasthan (NIRF)",
+    "courses": ["B.Arch Architecture", "M.Plan Housing", "B.Tech Structural"],
+    "reviews": ["Excellent campus layout modeling historic Rajasthani math with modern styles.", "Strong career placements across premier infrastructure and construction modules."],
+    "placements": "75%"
+  },
+  {
+    "name": "College of Engineering Trivandrum",
+    "overview": "Rank 15 Architecture and Planning - Renowned historic state public engineering block serving structural and creative architecture tracks in Kerala (NIRF)",
+    "courses": ["B.Arch", "M.Plan Housing", "B.Tech Civil Engineering"],
+    "reviews": ["Deeply historical institution with legendary architecture and planning lineages.", "Highly affordable fee model with exceptional placement records in southern firms."],
+    "placements": "74%"
+  },
+  {
+    "name": "Maulana Azad National Institute of Technology",
+    "overview": "Rank 17 Architecture and Planning - Strategic national institute campus driving engineering graphics and urban development courses in Madhya Pradesh (NIRF)",
+    "courses": ["B.Arch Architecture", "M.Plan Urban Design"],
+    "reviews": ["Strong foundational systems in engineering graphics and geographic spatial data tools.", "Massive campus footprint providing large studio lab models for structural design."],
+    "placements": "72%"
+  },
+  {
+    "name": "School of Planning & Architecture, Vijayawada",
+    "overview": "Rank 19 Architecture and Planning - Progressive national importance campus advancing sustainable town planning frameworks and built environment design in Andhra Pradesh (NIRF)",
+    "courses": ["B.Arch", "B.Plan", "M.Arch Sustainable Architecture"],
+    "reviews": ["Futuristic green buildings built to track carbon neutral architectural spaces.", "Highly dedicated faculty optimizing smart urban transit layout frameworks."],
+    "placements": "76%"
+  },
+  {
+    "name": "ICAR - National Dairy Research Institute",
+    "overview": "Rank 2 Agriculture and Allied Sectors - India's apex premier national station for dairy manufacturing, milk genetics, and livestock technology research in Haryana (NIRF)",
+    "courses": ["B.Tech Dairy Technology", "M.Sc Dairy Microbiology", "Ph.D."],
+    "reviews": ["The ultimate research standard for milk genetics and dairy bio-processing units.", "Pristine farm lines with massive corporate tie-ups across international dairy brands."],
+    "placements": "92%"
+  },
+  {
+    "name": "Punjab Agricultural University",
+    "overview": "Rank 3 Agriculture and Allied Sectors - Pioneering institutional center credited with leading the Green Revolution breakthroughs in Punjab (NIRF)",
+    "courses": ["B.Sc Agriculture Hons", "M.Sc Plant Breeding", "B.Tech Agri Engineering"],
+    "reviews": ["The historic engine room that spearheaded India’s green revolution changes.", "Incredible farm sizes with top-tier agro-genetics lab architectures."],
+    "placements": "84%"
+  },
+  {
+    "name": "Indian Veterinary Research Institute, Izatnagar",
+    "overview": "Rank 5 Agriculture and Allied Sectors - Elite legacy national institute advancing veterinary bacteriology, animal health safety, and biological research in Uttar Pradesh (NIRF)",
+    "courses": ["MVSc Veterinary Medicine", "Ph.D. Animal Virology", "BVSc & AH"],
+    "reviews": ["The elite flagship destination for animal surgery and biological research models.", "Exceptional advanced lab assets tracking livestock viral mutations safely."],
+    "placements": "90%"
+  },
+  {
+    "name": "Tamil Nadu Agricultural University",
+    "overview": "Rank 6 Agriculture and Allied Sectors - Renowned historical university structure spearheading tropical farming research and agrarian technology updates in Tamil Nadu (NIRF)",
+    "courses": ["B.Sc Agriculture", "B.Tech Horticulture", "M.Sc Entomology"],
+    "reviews": ["Vast historical campus tracking tropical farming methodologies and bug traits.", "Superb public reputation ensuring immediate absorption into agri-industry sectors."],
+    "placements": "78%"
+  },
+  {
+    "name": "Sher-e-Kashmir University of Agricultural Science and Technology of Kashmir",
+    "overview": "Rank 7 Agriculture and Allied Sectors - Premier high-altitude research university focusing on temperate horticulture and mountain farming dynamics in Jammu and Kashmir (NIRF)",
+    "courses": ["B.Sc Sericulture", "M.Sc Horticulture", "BVSc animal husbandry"],
+    "reviews": ["World authority on temperate high-altitude apple orchards and saffron yields.", "Stunning mountainous research backdrop with highly unique crop test frameworks."],
+    "placements": "70%"
+  },
+  {
+    "name": "Central Institute of Fisheries Education, Fisheries University",
+    "overview": "Rank 8 Agriculture and Allied Sectors - Apex landmark institutional university driving advanced aquaculture technology, fish processing, and marine biotechnology studies in Maharashtra (NIRF)",
+    "courses": ["M.F.Sc Aquaculture", "Ph.D. Fish Processing", "M.F.Sc Mariculture"],
+    "reviews": ["The premier authority on marine bio-tech and commercial fish cultivation paths.", "Outstanding laboratory ocean hulls with direct links to deep-sea data ships."],
+    "placements": "86%"
+  },
+  {
+    "name": "G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",
+    "overview": "Rank 9 Agriculture and Allied Sectors - India's historic first landmark agricultural university layout driving comprehensive rural developmental research in Uttarakhand (NIRF)",
+    "courses": ["B.Sc Agriculture", "B.Tech Food Tech", "M.Sc Plant Pathology"],
+    "reviews": ["India’s very first official agricultural university system with massive land holdings.", "Deep legacy parameters ensuring highly rooted extension links with rural sectors."],
+    "placements": "80%"
+  },
+  {
+    "name": "Chaudhary Charan Singh Haryana Agricultural University",
+    "overview": "Rank 10 Agriculture and Allied Sectors - Highly recognized specialized research network optimizing dryland farming profiles and cereal genomic yields in Haryana (NIRF)",
+    "courses": ["B.Sc Agriculture Hons", "M.Sc Soils", "Ph.D. Crop Genomics"],
+    "reviews": ["Brilliant dryland agricultural research modules with heavy seed yield data labs.", "Highly esteemed by government agri-boards across northwest crop corridors."],
+    "placements": "74%"
+  },
+  {
+    "name": "University of Agricultural Sciences, Bangalore",
+    "overview": "Rank 11 Agriculture and Allied Sectors - Premier South Indian university station engineering advancements in crop protection and organic farming methods in Karnataka (NIRF)",
+    "courses": ["B.Sc Agri Business", "M.Sc Crop Physiology", "Ph.D."],
+    "reviews": ["Excellent modern approach blending digital tech with organic farming workflows.", "Great local soil evaluation infrastructure and prominent bio-pesticide setups."],
+    "placements": "72%"
+  },
+  {
+    "name": "Kerala Agricultural University, Thrissur",
+    "overview": "Rank 12 Agriculture and Allied Sectors - Highly progressive agro-climatic institute optimizing plantation crops, spices forestry, and coastal farming arrays in Kerala (NIRF)",
+    "courses": ["B.Sc Forestry", "M.Sc Spices Plantation", "B.Tech Agricultural Eng"],
+    "reviews": ["Unrivaled research maps concerning tropical spice yields and coastal mangrove soils.", "Beautiful green research properties with strong agro-climatic parameters."],
+    "placements": "68%"
+  },
+  {
+    "name": "National Institute of Food Technology, Entrepreneurship and Management - Thanjavur (NIFTEM - Thanjavur)",
+    "overview": "Rank 13 Agriculture and Allied Sectors - Strategic corporate-aligned flagship center advancing food preservation, value-addition logistics, and processing engineering sectors in Tamil Nadu (NIRF)",
+    "courses": ["B.Tech Food Process Engineering", "M.Tech Food Tech", "Ph.D."],
+    "reviews": ["Corporate-modeled high-tech kitchens and food packaging testing tools.", "Excellent business placement lines across top tier FMCG processed food conglomerates."],
+    "placements": "82%"
+  },
+  {
+    "name": "Dr Rajendra Prasad Central Agricultural University, Samastipur",
+    "overview": "Rank 14 Agriculture and Allied Sectors - Prominent central university station pushing forward alluvial soil optimizations, localized crop varieties, and extension paths in Bihar (NIRF)",
+    "courses": ["B.Sc Agriculture", "M.Sc Agronomy", "Ph.D. Entomology"],
+    "reviews": ["Excellent central university grants optimizing alluvial flood-plain soil profiles.", "Grounded extensions programs helping local communities change yield metrics directly."],
+    "placements": "64%"
+  },
+  {
+    "name": "Bidhan Chandra Krishi Vishwavidyalaya",
+    "overview": "Rank 16 Agriculture and Allied Sectors - Prestigious deltaic state agricultural university evaluating rice breeding systems and sub-tropical horticulture tracks in West Bengal (NIRF)",
+    "courses": ["B.Sc Agriculture Hons", "M.Sc Genetics & Breeding", "Ph.D."],
+    "reviews": ["Highly respected tracking models for deltaic rice farming and wetland yields.", "Excellent crop testing lands, though administrative workflows face typical local delays."],
+    "placements": "66%"
+  },
+  {
+    "name": "Assam Agricultural University, Jorhat",
+    "overview": "Rank 18 Agriculture and Allied Sectors - Key northeastern flagship farming institute optimizing tea husbandry techniques, acid soil profiles, and hillside terrace agro-ecosystems in Assam (NIRF)",
+    "courses": ["B.Sc Agriculture", "M.Sc Tea Husbandry", "Ph.D. Plant Protection"],
+    "reviews": ["The absolute global standard for scientific tea plantation husbandry and leaf tech.", "Highly strategic geographic focus tracking acid soil chemistry on hillside fields."],
+    "placements": "70%"
+  },
+  {
+    "name": "Anna University",
+    "overview": "Rank 2 State Public University; Rank 9 Innovation - Premier state technical university with elite engineering and incubation infrastructure in Tamil Nadu (NIRF)",
+    "courses": ["B.E. Electronics & Communication", "B.Tech Biotechnology", "M.E. Structural"],
+    "reviews": ["Massive technical campus that governs engineering protocols across the state.", "Exceptional research funding and heavily successful engineering incubation wings."],
+    "placements": "82%"
+  },
+  {
+    "name": "Indian Institute of Technology Mandi",
+    "overview": "Rank 10 Innovation - Highly cutting-edge eco-conscious technical campus driving product design and technology ventures in Himachal Pradesh (NIRF)",
+    "courses": ["B.Tech Computer Science", "B.Tech Data Science", "M.Tech Energy Engineering"],
+    "reviews": ["Incredible valley campus prioritizing climate tracking and clean grid tech.", "Outstanding creative incubation spaces for high-altitude tech ventures."],
+    "placements": "76%"
+  },
+  {
+    "name": "Indira Gandhi National Open University (IGNOU)",
+    "overview": "Rank 1 Open University - India's apex pioneer central open learning university hub headquartered in Delhi (NIRF)",
+    "courses": ["BA Distance", "MBA Open Learning", "B.Com Distance", "MCA"],
+    "reviews": ["The undisputed absolute titan of distance education across the subcontinent.", "Flexible timelines with massive physical textbook and virtual study networks."],
+    "placements": "50%"
+  },
+  {
+    "name": "Karnataka State Open University, Mysore",
+    "overview": "Rank 2 Open University - Leading distance learning state university center providing wide education access corridors in Karnataka (NIRF)",
+    "courses": ["BA Distance", "MA Kannada", "M.Com Open Track"],
+    "reviews": ["Highly robust distance education reach across southern remote towns.", "Streamlined study materials designed well for working professional paths."],
+    "placements": "45%"
+  },
+  {
+    "name": "U.P. Rajarshi Tandon Open University, Allahabad",
+    "overview": "Rank 3 Open University - Reputed state distance learning platform scaling higher education reach across Uttar Pradesh (NIRF)",
+    "courses": ["BA Distance", "B.Sc Open", "MA Hindi Distance"],
+    "reviews": ["Crucial distance network bringing educational degrees to rural Uttar Pradesh.", "Fairly flexible exam centers, though degree delivery can face shipping lags."],
+    "placements": "42%"
+  },
+  {
+    "name": "Symbiosis Skills and Professional University (Formerly Symbiosis Skill and Open University)",
+    "overview": "Rank 1 Skill University - Highly pioneering flagship vocational and hands-on professional learning ecosystem in Maharashtra (NIRF)",
+    "courses": ["B.Tech Automobile Skill", "BBA Logistics", "B.Sc Data Science"],
+    "reviews": ["Brilliant focus on 70% pure practical shop-floor training over textbook cramming.", "High-end corporate labs built right inside the campus by global engineering brands."],
+    "placements": "84%"
+  },
+  {
+    "name": "Symbiosis University of Applied Sciences",
+    "overview": "Rank 2 Skill University - Elite specialized skill architecture center scaling industry-aligned capability and technical trades in Madhya Pradesh (NIRF)",
+    "courses": ["B.Tech CS Cloud Computing", "BBA Banking and Finance"],
+    "reviews": ["Outstanding mock banking floors and high-tech corporate cloud server labs.", "Highly focused on immediate day-one technical corporate deployment skills."],
+    "placements": "82%"
+  },
+  {
+    "name": "Shri Vishwakarma Skill University",
+    "overview": "Rank 3 Skill University - India's first state statutory skill university structured to drive vocational education and dual models in Haryana (NIRF)",
+    "courses": ["B.Voc Industrial Electronics", "D.Voc Tool and Die", "M.Voc"],
+    "reviews": ["India’s very first state skill university running innovative earn-while-learn models.", "Strong manufacturing partnerships offering direct machine shop credentials."],
+    "placements": "74%"
+  },
+  {
+    "name": "Andhra University, Visakhapatnam",
+    "overview": "Rank 4 State Public University - Renowned comprehensive legacy public university in Andhra Pradesh (NIRF)",
+    "courses": ["B.Tech Chemical Engineering", "B.Pharma", "MA English", "M.Sc Marine Biology"],
+    "reviews": ["Deeply operational legacy structures tracking marine life and chemical engineering.", "Huge alumni base spanning global networks, though administrative systems are old-school."],
+    "placements": "70%"
+  },
+  {
+    "name": "Kerala University",
+    "overview": "Rank 5 State Public University - Historically prominent premier higher learning public campus in Kerala (NIRF)",
+    "courses": ["BA Malayalam", "M.Sc Aquatic Biology", "MA History"],
+    "reviews": ["Rich cultural history with strong tracking of aquatic marine research profiles.", "Excellent academic standards with very active local student union setups."],
+    "placements": "66%"
+  },
+  {
+    "name": "Osmania University",
+    "overview": "Rank 7 State Public University - Exceptionally historic landmark state university setup in Telangana (NIRF)",
+    "courses": ["B.E. Electronics", "LL.B", "M.A. Linguistics", "M.Sc Chemistry"],
+    "reviews": ["Iconic Arts College building framing decades of rich educational scholarship.", "Outstanding state reputation for engineering fields, though campus politics are intense."],
+    "placements": "72%"
+  },
+  {
+    "name": "University of Kashmir",
+    "overview": "Rank 8 State Public University - Top tier regional learning destination and cultural scholarship focus in Jammu and Kashmir (NIRF)",
+    "courses": ["MA Islamic Studies", "B.Tech Computer Science", "M.Sc Botany"],
+    "reviews": ["Breathtaking campus environment near Dal Lake focusing closely on regional flora.", "The primary standard for higher academic research across the valley corridors."],
+    "placements": "60%"
+  },
+  {
+    "name": "Gauhati University",
+    "overview": "Rank 9 State Public University - Oldest and most historic premier public university corridor in Assam (NIRF)",
+    "courses": ["MA Assamese", "B.Tech Instrumentation", "M.Sc Zoology"],
+    "reviews": ["The foundational bedrock university for higher learning tracking across Northeast India.", "Vast departmental structures, though digital modernizations are moving steadily."],
+    "placements": "62%"
+  },
+  {
+    "name": "Bharathiar University",
+    "overview": "Rank 10 State Public University - Highly rated public campus driving research across arts and pure sciences in Tamil Nadu (NIRF)",
+    "courses": ["M.Sc Biotechnology", "MA English Literature", "Ph.D. Physics"],
+    "reviews": ["Highly regarded postgraduate science research frameworks with high citation records.", "Disciplined environment with highly qualified laboratory research supervisors."],
+    "placements": "68%"
+  },
+  {
+    "name": "Savitribai Phule Pune University",
+    "overview": "Rank 11 State Public University - Highly prestigious multi spectrum state architecture for higher education in Maharashtra (NIRF)",
+    "courses": ["M.Sc Bioinformatics", "MA Media Studies", "M.Tech Electronics"],
+    "reviews": ["Known widely as the Oxford of the East with beautiful sprawling old stone structures.", "Outstanding corporate alignment with Pune’s automobile and tech industrial strips."],
+    "placements": "74%"
+  },
+  {
+    "name": "Mumbai University",
+    "overview": "Rank 12 State Public University - Crucial landmark mega scale metropolitan state public university system in Maharashtra (NIRF)",
+    "courses": ["B.Com Accountancy", "LL.B 3-Year", "MA Economics", "M.Sc Physics"],
+    "reviews": ["Massive metropolitan scale managing hundreds of structural college affiliations.", "Incredible economic capital footprint, though handling results paperwork takes time."],
+    "placements": "68%"
+  },
+  {
+    "name": "Delhi Technological University",
+    "overview": "Rank 13 State Public University - Elite premier technical engineering state campus in Delhi (NIRF)",
+    "courses": ["B.Tech Computer Engineering", "B.Tech Electronics", "MBA Tech"],
+    "reviews": ["Incredible tech placement records frequently competing right next to top tier IITs.", "Outstanding practical tech coding culture with heavily supported automotive design groups."],
+    "placements": "84%"
+  },
+  {
+    "name": "Alagappa University",
+    "overview": "Rank 14 State Public University - Highly acclaimed progressive state institution fueling qualitative rural educational metrics in Tamil Nadu (NIRF)",
+    "courses": ["M.Sc Corporate Secretaryship", "MBA", "MA Tamil"],
+    "reviews": ["Great dedication to lifting rural educational metrics with smart computer setups.", "Excellent administrative focus on running smooth error-free exam routines."],
+    "placements": "65%"
+  },
+  {
+    "name": "Calcutta University",
+    "overview": "Rank 15 State Public University - Deeply historic legacy higher education standard public center in West Bengal (NIRF)",
+    "courses": ["BA English Hons", "M.Sc Pure Physics", "LL.M"],
+    "reviews": ["Legacy that produced multiple Nobel laureates and historic Indian intellects.", "Deeply theoretical academic benchmarks, though processing automation is still basic."],
+    "placements": "64%"
+  },
+  {
+    "name": "Bharathidasan University",
+    "overview": "Rank 16 State Public University - Renowned public university setup driving technological and structural study domains in Tamil Nadu (NIRF)",
+    "courses": ["M.Sc Remote Sensing", "MA Economics", "Ph.D. Tech"],
+    "reviews": ["Brilliant specialized niches in geo-spatial remote sensing and satellite data models.", "Grounded academic profiles with steady performance across state jobs."],
+    "placements": "66%"
+  },
+  {
+    "name": "Mahatma Gandhi University, Cottayam",
+    "overview": "Rank 17 State Public University - Exceptionally prominent state public center engineering critical sub-tropical research in Kerala (NIRF)",
+    "courses": ["M.Sc Polymer Chemistry", "MA Gandhian Studies", "Ph.D."],
+    "reviews": ["Global renown for specialized structural research in rubber and polymer sciences.", "Serene hilltop setting, highly encouraging qualitative socio-environmental studies."],
+    "placements": "68%"
+  },
+  {
+    "name": "University of Madras",
+    "overview": "Rank 18 State Public University - Exceptionally historic foundation cornerstone campus for higher learning framework setups in Tamil Nadu (NIRF)",
+    "courses": ["MA Criminology", "M.Sc Bio-Chemistry", "MBA Financials"],
+    "reviews": ["The foundational structural mother university of southern higher education models.", "Superb historic department setups, though campus layout handles heavy student traffic."],
+    "placements": "65%"
+  },
+  {
+    "name": "Indraprastha Institute of Information Technology",
+    "overview": "Rank 19 State Public University - Highly focused cutting-edge state technical center optimized for advanced computing and computing science research in Delhi (IIIT Delhi) (NIRF)",
+    "courses": ["B.Tech Computer Science & AI", "B.Tech Electronics & VLSI", "Ph.D."],
+    "reviews": ["Highly focused, cutting-edge campus entirely dedicated to core computer research.", "Incredible coding loops, modern hostels, and top-tier data engineering packages."],
+    "placements": "85%"
+  }
+]

@@ -1,0 +1,1523 @@
+[
+  {
+    "name": "Indian Institute of Technology Madras",
+    "location": "Chennai",
+    "fees": 235000,
+    "rating": 87.31,
+    "placements": "Excellent",
+    "description": "Rank 1 Overall - Top university in India; Rank 1 Engineering; Rank 1 Innovation; Rank 1 SDG; Rank 2 Research Institution; Rank 13 Management (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Science",
+    "location": "Bengaluru",
+    "fees": 45000,
+    "rating": 85.05,
+    "placements": "Excellent",
+    "description": "Rank 2 Overall, Rank 1 University - Premier science and research institution; Rank 1 Research Institution; Rank 3 Innovation (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Technology Bombay",
+    "location": "Mumbai",
+    "fees": 230000,
+    "rating": 81.62,
+    "placements": "Excellent",
+    "description": "Rank 3 Overall - Top IIT in India; Rank 3 Engineering; Rank 2 Innovation; Rank 4 Research Institution; Rank 14 Management (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Technology Delhi",
+    "location": "New Delhi",
+    "fees": 225000,
+    "rating": 80.67,
+    "placements": "Excellent",
+    "description": "Rank 4 Overall - Premier technology institute in Delhi; Rank 2 Engineering; Rank 3 Research Institution; Rank 4 Management; Rank 7 Innovation; Rank 8 SDG (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Technology Kanpur",
+    "location": "Kanpur",
+    "fees": 230000,
+    "rating": 77.25,
+    "placements": "Excellent",
+    "description": "Rank 5 Overall - Top IIT in Uttar Pradesh; Rank 4 Engineering; Rank 5 Innovation; Rank 6 Research Institution (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Technology Kharagpur",
+    "location": "Kharagpur",
+    "fees": 250000,
+    "rating": 73.99,
+    "placements": "Excellent",
+    "description": "Rank 6 Overall - Oldest IIT in India; Rank 5 Engineering; Rank 5 Research Institution; Rank 12 Management; Rank 3 Architecture and Planning; Rank 4 Innovation; Rank 6 Law (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Technology Roorkee",
+    "location": "Roorkee",
+    "fees": 220000,
+    "rating": 71.73,
+    "placements": "Excellent",
+    "description": "Rank 7 Overall - Top IIT in Uttarakhand; Rank 6 Engineering; Rank 8 Research Institution; Rank 1 Architecture and Planning; Rank 8 Innovation; Rank 6 SDG (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "All India Institute of Medical Sciences, Delhi",
+    "location": "New Delhi",
+    "fees": 1700,
+    "rating": 70.57,
+    "placements": "Excellent",
+    "description": "Rank 8 Overall - Premier medical institution in India; Rank 1 Medical; Rank 1 Dental; Rank 11 Research Institution (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1584515933487-7598c988f46a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Jawaharlal Nehru University",
+    "location": "New Delhi",
+    "fees": 1200,
+    "rating": 71.00,
+    "placements": "Good",
+    "description": "Rank 9 Overall, Rank 2 University - Renowned central university in Delhi; Rank 7 SDG (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Banaras Hindu University",
+    "location": "Varanasi",
+    "fees": 8500,
+    "rating": 68.71,
+    "placements": "Good",
+    "description": "Rank 10 Overall, Rank 6 University - One of the largest residential universities in Asia; Rank 4 Agriculture and Allied Sectors; Rank 6 Medical; Rank 15 Dental (Faculty of Dental Sciences rank withdrawn*); Rank 16 Research Institution; Rank 10 SDG (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Technology Guwahati",
+    "location": "Guwahati",
+    "fees": 230000,
+    "rating": 67.67,
+    "placements": "Excellent",
+    "description": "Rank 11 Overall - Premier IIT in Northeast India; Rank 8 Engineering; Rank 10 Research Institution (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Technology Hyderabad",
+    "location": "Hyderabad",
+    "fees": 240000,
+    "rating": 67.04,
+    "placements": "Excellent",
+    "description": "Rank 12 Overall - Top IIT in Telangana; Rank 7 Engineering; Rank 6 Innovation; Rank 15 Research Institution (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Jamia Millia Islamia",
+    "location": "New Delhi",
+    "fees": 15000,
+    "rating": 69.10,
+    "placements": "Good",
+    "description": "Rank 13 Overall, Rank 4 University - Central university in New Delhi; Rank 17 Dental; Rank 5 Architecture and Planning; Rank 8 Law (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Manipal Academy of Higher Education",
+    "location": "Manipal",
+    "fees": 450000,
+    "rating": 69.25,
+    "placements": "Good",
+    "description": "Rank 14 Overall, Rank 3 University - Top private university in Karnataka; Rank 19 Research Institution; Rank 5 SDG (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "University of Delhi",
+    "location": "Delhi",
+    "fees": 12000,
+    "rating": 67.38,
+    "placements": "Good",
+    "description": "Rank 15 Overall, Rank 5 University - One of the largest universities in India; Rank 12 Research Institution (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Birla Institute of Technology & Science - Pilani",
+    "location": "Pilani",
+    "fees": 550000,
+    "rating": 67.24,
+    "placements": "Excellent",
+    "description": "Rank 16 Overall, Rank 7 University - Top private engineering university in Rajasthan; Rank 11 Engineering; Rank 18 Research Institution; Rank 2 Pharmacy (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Amrita Vishwa Vidyapeetham",
+    "location": "Coimbatore",
+    "fees": 320000,
+    "rating": 67.05,
+    "placements": "Good",
+    "description": "Rank 17 Overall, Rank 8 University - Leading private university in Tamil Nadu; Rank 9 Medical; Rank 14 Dental; Rank 14 Pharmacy (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Jadavpur University",
+    "location": "Kolkata",
+    "fees": 5000,
+    "rating": 76.08,
+    "placements": "Good",
+    "description": "Rank 18 Overall, Rank 9 University - Premier State Public University in India; Rank 1 State Public University; Rank 18 Engineering; Rank 16 Architecture and Planning (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Aligarh Muslim University",
+    "location": "Aligarh",
+    "fees": 18000,
+    "rating": 65.35,
+    "placements": "Good",
+    "description": "Rank 19 Overall, Rank 10 University - Historic central university in Uttar Pradesh; Rank 9 Law (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "S.R.M. Institute of Science and Technology",
+    "location": "Chennai",
+    "fees": 275000,
+    "rating": 65.26,
+    "placements": "Good",
+    "description": "Rank 11 University - Leading private university in Tamil Nadu; Rank 14 Engineering; Rank 18 Medical; Rank 18 Architecture and Planning; Rank 10 Pharmacy; Rank 4 SDG (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Homi Bhabha National Institute",
+    "location": "Mumbai",
+    "fees": 60000,
+    "rating": 65.08,
+    "placements": "Excellent",
+    "description": "Rank 12 University - Premier research institution in Maharashtra; Rank 7 Research Institution (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Saveetha Institute of Medical and Technical Sciences",
+    "location": "Chennai",
+    "fees": 350000,
+    "rating": 65.04,
+    "placements": "Good",
+    "description": "Rank 13 University - Leading medical and technical institution in Tamil Nadu; Rank 11 Medical; Rank 2 Dental; Rank 19 Law; Rank 13 Research Institution (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Vellore Institute of Technology",
+    "location": "Vellore",
+    "fees": 195000,
+    "rating": 64.64,
+    "placements": "Good",
+    "description": "Rank 14 University - Top private engineering university in Tamil Nadu; Rank 16 Engineering; Rank 14 Research Institution (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Siksha 'O' Anusandhan",
+    "location": "Bhubaneswar",
+    "fees": 250000,
+    "rating": 63.14,
+    "placements": "Good",
+    "description": "Rank 15 University - Leading private university in Odisha; Rank 15 Medical; Rank 9 Dental; Rank 10 Law (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Agricultural Research Institute",
+    "location": "New Delhi",
+    "fees": 15000,
+    "rating": 89.23,
+    "placements": "Good",
+    "description": "Rank 16 University - Premier agricultural research institution in India; Rank 1 Agriculture and Allied Sectors; Rank 2 SDG (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Kalinga Institute of Industrial Technology",
+    "location": "Bhubaneswar",
+    "fees": 350000,
+    "rating": 62.87,
+    "placements": "Good",
+    "description": "Rank 17 University - Top private university in Odisha; Rank 14 Law (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "University of Hyderabad",
+    "location": "Hyderabad",
+    "fees": 22000,
+    "rating": 61.83,
+    "placements": "Good",
+    "description": "Rank 18 University - Premier central university in Telangana (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Chandigarh University",
+    "location": "Mohali",
+    "fees": 260000,
+    "rating": 61.27,
+    "placements": "Good",
+    "description": "Rank 19 University - Leading private university in Punjab; Rank 14 Architecture and Planning; Rank 15 Pharmacy (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Hindu College",
+    "location": "Delhi",
+    "fees": 26000,
+    "rating": 84.01,
+    "placements": "Excellent",
+    "description": "Rank 1 College - Top ranked college in India (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Miranda House",
+    "location": "Delhi",
+    "fees": 22000,
+    "rating": 83.20,
+    "placements": "Excellent",
+    "description": "Rank 2 College - Leading women's college in Delhi (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Hans Raj College",
+    "location": "Delhi",
+    "fees": 24000,
+    "rating": 81.75,
+    "placements": "Excellent",
+    "description": "Rank 3 College - Premier Delhi University college (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Kirori Mal College",
+    "location": "Delhi",
+    "fees": 21000,
+    "rating": 80.33,
+    "placements": "Excellent",
+    "description": "Rank 4 College - Renowned institution in Delhi (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "St. Stephen's College",
+    "location": "Delhi",
+    "fees": 42000,
+    "rating": 79.41,
+    "placements": "Excellent",
+    "description": "Rank 5 College - Elite liberal arts and science college in Delhi (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Rama Krishna Mission Vivekananda Centenary College",
+    "location": "Kolkata",
+    "fees": 15000,
+    "rating": 76.74,
+    "placements": "Excellent",
+    "description": "Rank 6 College - Top premier college in West Bengal (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Atma Ram Sanatan Dharm College",
+    "location": "New Delhi",
+    "fees": 18000,
+    "rating": 76.09,
+    "placements": "Good",
+    "description": "Rank 7 College - Highly rated college in Delhi (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "St. Xavier's College",
+    "location": "Kolkata",
+    "fees": 45000,
+    "rating": 76.07,
+    "placements": "Excellent",
+    "description": "Rank 8 College - Historic and prestigious college in West Bengal (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "PSGR Krishnammal College for Women",
+    "location": "Coimbatore",
+    "fees": 35000,
+    "rating": 75.52,
+    "placements": "Good",
+    "description": "Rank 9 College - Elite women's college in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "PSG College of Arts and Science",
+    "location": "Coimbatore",
+    "fees": 40000,
+    "rating": 73.15,
+    "placements": "Good",
+    "description": "Rank 10 College - Renowned institution in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Sri Venkateswara College",
+    "location": "Delhi",
+    "fees": 26000,
+    "rating": 72.61,
+    "placements": "Good",
+    "description": "Rank 11 College - Reputed South Campus DU college (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Rajagiri College of Social Sciences",
+    "location": "Ernakulam",
+    "fees": 55000,
+    "rating": 71.72,
+    "placements": "Good",
+    "description": "Rank 12 College - Leading college in Kerala (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Deshbandhu College",
+    "location": "New Delhi",
+    "fees": 19000,
+    "rating": 71.26,
+    "placements": "Good",
+    "description": "Rank 13 College - Prominent institution in Delhi (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Loyola College",
+    "location": "Chennai",
+    "fees": 48000,
+    "rating": 71.14,
+    "placements": "Excellent",
+    "description": "Rank 14 College - Highly prestigious college in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Presidency College",
+    "location": "Chennai",
+    "fees": 4000,
+    "rating": 70.62,
+    "placements": "Good",
+    "description": "Rank 15 College - Historic premier college in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Madras Christian College",
+    "location": "Chennai",
+    "fees": 38000,
+    "rating": 70.57,
+    "placements": "Good",
+    "description": "Rank 16 College - Renowned historic college in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Lady Shri Ram College For Women",
+    "location": "New Delhi",
+    "fees": 24000,
+    "rating": 69.87,
+    "placements": "Excellent",
+    "description": "Rank 17 College - Elite premier women's college in Delhi (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Shri Ram College of Commerce",
+    "location": "Delhi",
+    "fees": 30000,
+    "rating": 69.01,
+    "placements": "Excellent",
+    "description": "Rank 18 College - Top tier commerce institution in India (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Ramakrishna Mission Vidyamandira",
+    "location": "Howrah",
+    "fees": 18000,
+    "rating": 69.00,
+    "placements": "Good",
+    "description": "Rank 19 College - Reputed residential college in West Bengal (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Academy of Scientific and Innovative Research",
+    "location": "Ghaziabad",
+    "fees": 55000,
+    "rating": 67.15,
+    "placements": "Excellent",
+    "description": "Rank 9 Research Institution - Premier innovative research university in Uttar Pradesh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Tata Institute of Fundamental Research",
+    "location": "Mumbai",
+    "fees": 32000,
+    "rating": 57.96,
+    "placements": "Excellent",
+    "description": "Rank 17 Research Institution - Elite premier destination for advanced theoretical and natural sciences research (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "National Institute of Technology Tiruchirappalli",
+    "location": "Tiruchirappalli",
+    "fees": 145000,
+    "rating": 64.30,
+    "placements": "Excellent",
+    "description": "Rank 9 Engineering; Rank 9 Architecture and Planning - Premier National Institute of Technology (NIT Trichy) in India (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Technology (Banaras Hindu University) Varanasi",
+    "location": "Varanasi",
+    "fees": 225000,
+    "rating": 67.24,
+    "placements": "Excellent",
+    "description": "Rank 10 Engineering - Elite technology engineering wing of BHU (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Technology Indore",
+    "location": "Indore",
+    "fees": 230000,
+    "rating": 66.65,
+    "placements": "Excellent",
+    "description": "Rank 12 Engineering - Top modern tier IIT in Madhya Pradesh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "National Institute of Technology Rourkela",
+    "location": "Rourkela",
+    "fees": 150000,
+    "rating": 65.72,
+    "placements": "Excellent",
+    "description": "Rank 13 Engineering; Rank 7 Architecture and Planning; Rank 9 SDG (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Technology (Indian School of Mines)",
+    "location": "Dhanbad",
+    "fees": 220000,
+    "rating": 65.37,
+    "placements": "Excellent",
+    "description": "Historic premier institute renowned for earth sciences and core technical engineering fields in Jharkhand (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "National Institute of Technology Karnataka, Surathkal",
+    "location": "Surathkal",
+    "fees": 155000,
+    "rating": 64.59,
+    "placements": "Excellent",
+    "description": "Rank 17 Engineering - Top-tier prestigious coastal National Institute of Technology in Karnataka (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Technology Patna",
+    "location": "Patna",
+    "fees": 220000,
+    "rating": 60.16,
+    "placements": "Excellent",
+    "description": "Rank 19 Engineering; Rank 13 Architecture and Planning - Highly progressive tier-2 IIT campus in Bihar (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Management Ahmedabad",
+    "location": "Ahmedabad",
+    "fees": 1250000,
+    "rating": 83.29,
+    "placements": "Excellent",
+    "description": "Rank 1 Management - India's premier flagship business administration institution (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Management Bangalore",
+    "location": "Bengaluru",
+    "fees": 1220000,
+    "rating": 81.56,
+    "placements": "Excellent",
+    "description": "Rank 2 Management - Elite flagship business school in Karnataka (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Management Kozhikode",
+    "location": "Kozhikode",
+    "fees": 1050000,
+    "rating": 79.85,
+    "placements": "Excellent",
+    "description": "Rank 3 Management - Highly prestigious business school in Kerala (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Management Lucknow",
+    "location": "Lucknow",
+    "fees": 1025000,
+    "rating": 77.97,
+    "placements": "Excellent",
+    "description": "Rank 5 Management - Top-tier elite management hub in Uttar Pradesh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Management, Mumbai",
+    "location": "Mumbai",
+    "fees": 1000000,
+    "rating": 77.58,
+    "placements": "Excellent",
+    "description": "Rank 6 Management - Premier institute formerly renowned for industrial engineering and supply chain leadership in Maharashtra (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Management Calcutta",
+    "location": "Kolkata",
+    "fees": 1150000,
+    "rating": 77.34,
+    "placements": "Excellent",
+    "description": "Rank 7 Management - Prestigious quantitative-focused finance hub in West Bengal (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Management Indore",
+    "location": "Indore",
+    "fees": 1020000,
+    "rating": 75.68,
+    "placements": "Excellent",
+    "description": "Rank 8 Management - Highly progressive flagship business school in Madhya Pradesh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Management Development Institute",
+    "location": "Gurugram",
+    "fees": 1170000,
+    "rating": 71.96,
+    "placements": "Excellent",
+    "description": "Rank 9 Management - Elite corporate-aligned private management school in Haryana (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "XLRI - Xavier School of Management",
+    "location": "Jamshedpur",
+    "fees": 1150000,
+    "rating": 70.63,
+    "placements": "Excellent",
+    "description": "Rank 10 Management - Historic premier destination renowned across South Asia for Human Resource Management in Jharkhand (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Symbiosis Institute of Business Management",
+    "location": "Pune",
+    "fees": 1080000,
+    "rating": 67.90,
+    "placements": "Excellent",
+    "description": "Rank 11 Management - Prominent flagship private business school in Maharashtra (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Management Raipur",
+    "location": "Raipur",
+    "fees": 820000,
+    "rating": 65.03,
+    "placements": "Excellent",
+    "description": "Rank 15 Management - Rapidly scaling management campus in Chhattisgarh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Management Tiruchirappalli",
+    "location": "Tiruchirappalli",
+    "fees": 850000,
+    "rating": 64.95,
+    "placements": "Excellent",
+    "description": "Rank 16 Management - Elite second-generation business school in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Foreign Trade",
+    "location": "New Delhi",
+    "fees": 920000,
+    "rating": 62.93,
+    "placements": "Excellent",
+    "description": "Rank 17 Management - Premier specialized trade policy and international business school in Delhi (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Management Ranchi",
+    "location": "Ranchi",
+    "fees": 810000,
+    "rating": 62.77,
+    "placements": "Excellent",
+    "description": "Rank 18 Management - Progressive flagship business campus in Jharkhand (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Management Rohtak",
+    "location": "Rohtak",
+    "fees": 890000,
+    "rating": 62.60,
+    "placements": "Excellent",
+    "description": "Rank 19 Management - Fast-growing strategic business school in Haryana (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Jamia Hamdard",
+    "location": "New Delhi",
+    "fees": 145000,
+    "rating": 86.59,
+    "placements": "Excellent",
+    "description": "Rank 1 Pharmacy - Premier destination for pharmaceutical education and research in India (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Panajab University",
+    "location": "Chandigarh",
+    "fees": 20000,
+    "rating": 69.92,
+    "placements": "Excellent",
+    "description": "Rank 3 State Public University; Rank 3 Pharmacy - Historic highly acclaimed state university campus in Chandigarh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "JSS College of Pharmacy",
+    "location": "Ooty",
+    "fees": 260000,
+    "rating": 76.14,
+    "placements": "Excellent",
+    "description": "Rank 4 Pharmacy - Highly prestigious institute for medical and clinical research in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research Hyderabad",
+    "location": "Hyderabad",
+    "fees": 95000,
+    "rating": 75.64,
+    "placements": "Excellent",
+    "description": "Rank 5 Pharmacy - Elite national institute dedicated to cutting-edge research in Telangana (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Institute of Chemical Technology",
+    "location": "Mumbai",
+    "fees": 90000,
+    "rating": 74.77,
+    "placements": "Excellent",
+    "description": "Rank 6 Pharmacy - Globally renowned research hub for chemical engineering and pharma tech in Maharashtra (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "JSS College of Pharmacy, Mysore",
+    "location": "Mysore",
+    "fees": 250000,
+    "rating": 73.38,
+    "placements": "Good",
+    "description": "Rank 7 Pharmacy - Top tier pharmaceutical learning ecosystem in Karnataka (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Manipal College of Pharmaceutical Sciences, Manipal",
+    "location": "Udupi",
+    "fees": 380000,
+    "rating": 73.25,
+    "placements": "Excellent",
+    "description": "Rank 8 Pharmacy - Premier private pharmacy learning institute in Karnataka (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research, Mohali",
+    "location": "Mohali",
+    "fees": 90000,
+    "rating": 70.96,
+    "placements": "Excellent",
+    "description": "Rank 9 Pharmacy - Flagship premier pharmaceutical research institute in Punjab (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "SVKM`s Narsee Monjee Institute of Management Studies",
+    "location": "Mumbai",
+    "fees": 300000,
+    "rating": 70.59,
+    "placements": "Good",
+    "description": "Rank 11 Pharmacy - Prominent private multimodal university branch in Maharashtra (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research Guwahati",
+    "location": "Guwahati",
+    "fees": 100000,
+    "rating": 69.64,
+    "placements": "Excellent",
+    "description": "Rank 12 Pharmacy - Premier national institution driving biotech and healthcare innovations in Assam (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Lovely Professional University",
+    "location": "Phagwara",
+    "fees": 240000,
+    "rating": 68.59,
+    "placements": "Good",
+    "description": "Rank 13 Pharmacy - Large scale progressive private campus in Punjab (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Chitkara University",
+    "location": "Rajpura",
+    "fees": 210000,
+    "rating": 66.85,
+    "placements": "Good",
+    "description": "Rank 16 Pharmacy - Leading tech-aligned corporate private university in Punjab (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research Raebareli",
+    "location": "Lucknow",
+    "fees": 105000,
+    "rating": 66.65,
+    "placements": "Excellent",
+    "description": "Rank 17 Pharmacy - Specialized strategic research institute in Uttar Pradesh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Amity University",
+    "location": "Gautam Budh Nagar",
+    "fees": 220000,
+    "rating": 58.14,
+    "placements": "Good",
+    "description": "Rank 18 Pharmacy; Rank 15 Agriculture and Allied Sectors - Prominent global standard private research campus in Uttar Pradesh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Delhi Pharmaceutical Sciences and Research University",
+    "location": "Delhi",
+    "fees": 45000,
+    "rating": 66.24,
+    "placements": "Good",
+    "description": "Rank 19 Pharmacy - India's first specialized pharmaceutical sciences state university in Delhi (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Post Graduate Institute of Medical Education and Research",
+    "location": "Chandigarh",
+    "fees": 8000,
+    "rating": 82.58,
+    "placements": "Excellent",
+    "description": "Rank 2 Medical - Renowned postgraduate medical education and research landmark in Chandigarh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Christian Medical College",
+    "location": "Vellore",
+    "fees": 52000,
+    "rating": 76.48,
+    "placements": "Excellent",
+    "description": "Rank 3 Medical - Elite historic medical institution and healthcare ecosystem in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Jawaharlal Institute of Post Graduate Medical Education & Research",
+    "location": "Puducherry",
+    "fees": 12000,
+    "rating": 73.30,
+    "placements": "Excellent",
+    "description": "Rank 4 Medical - Premier central institution for medical excellence in Pondicherry (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Sanjay Gandhi Postgraduate Institute of Medical Sciences",
+    "location": "Lucknow",
+    "fees": 75000,
+    "rating": 70.09,
+    "placements": "Excellent",
+    "description": "Rank 5 Medical - Highly prestigious super-specialty medical sciences institute in Uttar Pradesh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "National Institute of Mental Health & Neuro Sciences, Bangalore",
+    "location": "Bengaluru",
+    "fees": 65000,
+    "rating": 69.77,
+    "placements": "Excellent",
+    "description": "Rank 7 Medical - India's apex premier neuroscience and mental health care institution in Karnataka (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "King George`s Medical University",
+    "location": "Lucknow",
+    "fees": 55000,
+    "rating": 68.89,
+    "placements": "Excellent",
+    "description": "Rank 8 Medical; Rank 7 State Public University; Rank 7 Dental - Highly historic and prestigious medical university setup in Uttar Pradesh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Kasturba Medical College, Manipal",
+    "location": "Manipal",
+    "fees": 1780000,
+    "rating": 68.05,
+    "placements": "Excellent",
+    "description": "Rank 10 Medical - Elite private hospital-aligned premier medical institution in Karnataka (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Dr. D. Y. Patil Vidyapeeth",
+    "location": "Pune",
+    "fees": 2500000,
+    "rating": 72.36,
+    "placements": "Good",
+    "description": "Rank 12 Medical; Rank 4 Dental - Progressive landmark private medical university center in Maharashtra (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "All India Institute of Medical Sciences Rishikesh",
+    "location": "Rishikesh",
+    "fees": 2500,
+    "rating": 65.02,
+    "placements": "Excellent",
+    "description": "Rank 13 Medical - Premier national medical institute serving northern healthcare corridors in Uttarakhand (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "All India Institute of Medical Sciences Bhubaneswar",
+    "location": "Bhubaneswar",
+    "fees": 2500,
+    "rating": 64.31,
+    "placements": "Excellent",
+    "description": "Rank 14 Medical - Leading national clinical excellence and education center in Odisha (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Madras Medical College & Government General Hospital, Chennai",
+    "location": "Chennai",
+    "fees": 15000,
+    "rating": 63.71,
+    "placements": "Excellent",
+    "description": "Rank 16 Medical - Exceptionally historic premier medical college and state framework hospital in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram",
+    "location": "Thiruvananthapuram",
+    "fees": 70000,
+    "rating": 63.36,
+    "placements": "Excellent",
+    "description": "Rank 17 Medical - Elite national importance specialized institution centered around biomedical engineering and advanced cardiac/neurological specialties in Kerala (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "All India Institute of Medical Sciences Jodhpur",
+    "location": "Jodhpur",
+    "fees": 2500,
+    "rating": 63.18,
+    "placements": "Excellent",
+    "description": "Rank 19 Medical - Highly progressive premier national medical setup in Rajasthan (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Maulana Azad Institute of Dental Sciences",
+    "location": "Delhi",
+    "fees": 30000,
+    "rating": 72.55,
+    "placements": "Excellent",
+    "description": "Rank 3 Dental - Premier apex public institute for dental surgery and clinical excellence in Delhi (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Manipal College of Dental Sciences, Manipal",
+    "location": "Manipal",
+    "fees": 500000,
+    "rating": 70.58,
+    "placements": "Excellent",
+    "description": "Rank 5 Dental - Top tier private dental college leading in clinical diagnostics and education in Karnataka (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "A.B.Shetty Memorial Institute of Dental Sciences",
+    "location": "Mangaluru",
+    "fees": 450000,
+    "rating": 69.00,
+    "placements": "Excellent",
+    "description": "Rank 6 Dental - Highly prestigious destination for dental healthcare and specialized surgeries in Karnataka (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "SRM Dental College",
+    "location": "Chennai",
+    "fees": 400000,
+    "rating": 68.19,
+    "placements": "Good",
+    "description": "Rank 8 Dental - Prominent specialized dental education wing of SRM in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "JSS Dental College and Hospital",
+    "location": "Mysuru",
+    "fees": 520000,
+    "rating": 62.59,
+    "placements": "Good",
+    "description": "Rank 10 Dental - Reowned learning center for stomatological advancement and care in Karnataka (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Manipal College of Dental Sciences, Mangalore",
+    "location": "Mangaluru",
+    "fees": 490000,
+    "rating": 62.43,
+    "placements": "Excellent",
+    "description": "Rank 11 Dental - Top tier satellite campus specializing in advanced oral and maxillofacial pathways in Karnataka (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Postgraduate Institute of Dental Sciences",
+    "location": "Rohtak",
+    "fees": 45000,
+    "rating": 62.03,
+    "placements": "Excellent",
+    "description": "Rank 12 Dental - Top ranked public dental institute driving professional clinical pathways in Haryana (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Sri Ramachandra Institute of Higher Education and Research",
+    "location": "Chennai",
+    "fees": 500000,
+    "rating": 61.28,
+    "placements": "Good",
+    "description": "Rank 13 Dental - High quality multi spectrum university clinical setup in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Meenakshi Academy of Higher Education and Research",
+    "location": "Chennai",
+    "fees": 450000,
+    "rating": 59.92,
+    "placements": "Good",
+    "description": "Rank 16 Dental - Respected health science academy delivering progressive dental clinical structures in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Nair Hospital Dental College",
+    "location": "Mumbai",
+    "fees": 50000,
+    "rating": 58.10,
+    "placements": "Excellent",
+    "description": "Rank 19 Dental - Landmark heritage dental hospital framework providing core urban dental paths in Maharashtra (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "National Law School of India University",
+    "location": "Bengaluru",
+    "fees": 210000,
+    "rating": 82.97,
+    "placements": "Excellent",
+    "description": "Rank 1 Law - Premier apex standard national law university flagship campus in Karnataka (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "National Law University",
+    "location": "New Delhi",
+    "fees": 230000,
+    "rating": 80.00,
+    "placements": "Excellent",
+    "description": "Rank 2 Law - Highly acclaimed premium legal education institutional campus in Delhi (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Nalsar University of Law",
+    "location": "Hyderabad",
+    "fees": 240000,
+    "rating": 79.50,
+    "placements": "Excellent",
+    "description": "Rank 3 Law - Exceptionally prestigious national university hub for jurisprudence and legal research in Telangana (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "The West Bengal National University of Juridical Sciences",
+    "location": "Kolkata",
+    "fees": 210000,
+    "rating": 79.39,
+    "placements": "Excellent",
+    "description": "Rank 4 Law - Elite specialized landmark center for legal learning and statutory research in West Bengal (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Gujarat National Law University",
+    "location": "Gandhinagar",
+    "fees": 185000,
+    "rating": 76.23,
+    "placements": "Excellent",
+    "description": "Rank 5 Law - Premier comprehensive legal research institute framework in Gujarat (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Symbiosis Law School, Pune",
+    "location": "Pune",
+    "fees": 250000,
+    "rating": 74.07,
+    "placements": "Excellent",
+    "description": "Rank 7 Law - High performance premium private law learning institute in Maharashtra (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Shanmugha Arts Science Technology & Research Academy",
+    "location": "Thanjavur",
+    "fees": 140000,
+    "rating": 65.29,
+    "placements": "Good",
+    "description": "Rank 11 Law - Reputed multidisciplinary private university law department in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Babasheb Bhimrao Ambedkar University",
+    "location": "Lucknow",
+    "fees": 15000,
+    "rating": 65.26,
+    "placements": "Good",
+    "description": "Rank 12 Law - Prominent central university statutory education setup in Uttar Pradesh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Cochin University of Science and Technology",
+    "location": "Cochin",
+    "fees": 6624,
+    "rating": 66.24,
+    "placements": "Good",
+    "description": "Rank 6 State Public University; Rank 13 Law - Recognized progressive government legal center in Kerala (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "National Law University, Cuttack",
+    "location": "Cuttack",
+    "fees": 180000,
+    "rating": 63.66,
+    "placements": "Excellent",
+    "description": "Rank 15 Law - Highly rated second-generation statutory national law university branch in Odisha (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Dr. B. R. Ambedkar College of Law",
+    "location": "Visakhapatnam",
+    "fees": 30000,
+    "rating": 63.12,
+    "placements": "Good",
+    "description": "Rank 16 Law - Respected university law branch framework in Andhra Pradesh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Chanakya National Law University",
+    "location": "Patna",
+    "fees": 160000,
+    "rating": 62.40,
+    "placements": "Excellent",
+    "description": "Rank 17 Law - Renowned legislative legal system university platform in Bihar (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "UPES",
+    "location": "Dehradun",
+    "fees": 310000,
+    "rating": 61.45,
+    "placements": "Good",
+    "description": "Rank 18 Law - Progressive energy and corporate aligned private university law branch in Uttarakhand (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "National Institute of Technology Calicut",
+    "location": "Kozhikode",
+    "fees": 140000,
+    "rating": 77.89,
+    "placements": "Excellent",
+    "description": "Rank 2 Architecture and Planning - Premier National Institute of Technology renowned for technical and spatial design programs in Kerala (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Engineering Science and Technology, Shibpur",
+    "location": "Howrah",
+    "fees": 135000,
+    "rating": 68.37,
+    "placements": "Excellent",
+    "description": "Rank 4 Architecture and Planning - Heritage public institution driving architectural research and structural technical design in West Bengal (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Centre for Environmental Planning and Technology University",
+    "location": "Ahmedabad",
+    "fees": 320000,
+    "rating": 65.73,
+    "placements": "Excellent",
+    "description": "Rank 6 Architecture and Planning - Highly acclaimed premier private destination for habitat design, human settlement, and urban ecosystem planning in Gujarat (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "School of Planning and Architecture New Delhi",
+    "location": "New Delhi",
+    "fees": 90000,
+    "rating": 65.11,
+    "placements": "Excellent",
+    "description": "Rank 8 Architecture and Planning - Apex standard national importance center for advanced regional planning and architectural study in Delhi (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Visvesvaraya National Institute of Technology, Nagpur",
+    "location": "Nagpur",
+    "fees": 145000,
+    "rating": 61.22,
+    "placements": "Excellent",
+    "description": "Rank 10 Architecture and Planning - Leading public technical university framework providing core spatial design streams in Maharashtra (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "School of Planning and Architecture Bhopal",
+    "location": "Bhopal",
+    "fees": 95000,
+    "rating": 60.69,
+    "placements": "Excellent",
+    "description": "Rank 11 Architecture and Planning - Prestigious statutory institute of national importance tracking contemporary urban design developments in Madhya Pradesh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Malaviya National Institute of Technology",
+    "location": "Jaipur",
+    "fees": 140000,
+    "rating": 60.48,
+    "placements": "Excellent",
+    "description": "Rank 12 Architecture and Planning - Elite public engineering and technology system driving sustainable infrastructure paths in Rajasthan (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "College of Engineering Trivandrum",
+    "location": "Thiruvananthapuram",
+    "fees": 25000,
+    "rating": 59.63,
+    "placements": "Good",
+    "description": "Rank 15 Architecture and Planning - Renowned historic state public engineering block serving structural and creative architecture tracks in Kerala (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Maulana Azad National Institute of Technology",
+    "location": "Bhopal",
+    "fees": 140000,
+    "rating": 58.80,
+    "placements": "Excellent",
+    "description": "Rank 17 Architecture and Planning - Strategic national institute campus driving engineering graphics and urban development courses in Madhya Pradesh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "School of Planning & Architecture, Vijayawada",
+    "location": "Vijayawada",
+    "fees": 95000,
+    "rating": 58.49,
+    "placements": "Excellent",
+    "description": "Rank 19 Architecture and Planning - Progressive national importance campus advancing sustainable town planning frameworks and built environment design in Andhra Pradesh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "ICAR - National Dairy Research Institute",
+    "location": "Karnal",
+    "fees": 12000,
+    "rating": 75.87,
+    "placements": "Excellent",
+    "description": "Rank 2 Agriculture and Allied Sectors - India's apex premier national station for dairy manufacturing, milk genetics, and livestock technology research in Haryana (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Punjab Agricultural University",
+    "location": "Ludhiana",
+    "fees": 45000,
+    "rating": 75.83,
+    "placements": "Excellent",
+    "description": "Rank 3 Agriculture and Allied Sectors - Pioneering institutional center credited with leading the Green Revolution breakthroughs in Punjab (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Veterinary Research Institute, Izatnagar",
+    "location": "Bareilly",
+    "fees": 15000,
+    "rating": 67.66,
+    "placements": "Excellent",
+    "description": "Rank 5 Agriculture and Allied Sectors - Elite legacy national institute advancing veterinary bacteriology, animal health safety, and biological research in Uttar Pradesh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Tamil Nadu Agricultural University",
+    "location": "Coimbatore",
+    "fees": 40000,
+    "rating": 67.06,
+    "placements": "Good",
+    "description": "Rank 6 Agriculture and Allied Sectors - Renowned historical university structure spearheading tropical farming research and agrarian technology updates in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Sher-e-Kashmir University of Agricultural Science and Technology of Kashmir",
+    "location": "Srinagar",
+    "fees": 30000,
+    "rating": 65.81,
+    "placements": "Good",
+    "description": "Rank 7 Agriculture and Allied Sectors - Premier high-altitude research university focusing on temperate horticulture and mountain farming dynamics in Jammu and Kashmir (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Central Institute of Fisheries Education, Fisheries University",
+    "location": "Mumbai",
+    "fees": 25000,
+    "rating": 63.92,
+    "placements": "Excellent",
+    "description": "Rank 8 Agriculture and Allied Sectors - Apex landmark institutional university driving advanced aquaculture technology, fish processing, and marine biotechnology studies in Maharashtra (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",
+    "location": "Pantnagar",
+    "fees": 45000,
+    "rating": 61.56,
+    "placements": "Excellent",
+    "description": "Rank 9 Agriculture and Allied Sectors - India's historic first landmark agricultural university layout driving comprehensive rural developmental research in Uttarakhand (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Chaudhary Charan Singh Haryana Agricultural University",
+    "location": "Hisar",
+    "fees": 22000,
+    "rating": 61.47,
+    "placements": "Good",
+    "description": "Rank 10 Agriculture and Allied Sectors - Highly recognized specialized research network optimizing dryland farming profiles and cereal genomic yields in Haryana (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "University of Agricultural Sciences, Bangalore",
+    "location": "Bengaluru",
+    "fees": 35000,
+    "rating": 60.35,
+    "placements": "Good",
+    "description": "Rank 11 Agriculture and Allied Sectors - Premier South Indian university station engineering advancements in crop protection and organic farming methods in Karnataka (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Kerala Agricultural University, Thrissur",
+    "location": "Thrissur",
+    "fees": 28000,
+    "rating": 60.00,
+    "placements": "Good",
+    "description": "Rank 12 Agriculture and Allied Sectors - Highly progressive agro-climatic institute optimizing plantation crops, spices forestry, and coastal farming arrays in Kerala (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "National Institute of Food Technology, Entrepreneurship and Management - Thanjavur (NIFTEM - Thanjavur)",
+    "location": "Thanjavur",
+    "fees": 120000,
+    "rating": 58.76,
+    "placements": "Good",
+    "description": "Rank 13 Agriculture and Allied Sectors - Strategic corporate-aligned flagship center advancing food preservation, value-addition logistics, and processing engineering sectors in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Dr Rajendra Prasad Central Agricultural University, Samastipur",
+    "location": "Samastipur",
+    "fees": 35000,
+    "rating": 58.25,
+    "placements": "Good",
+    "description": "Rank 14 Agriculture and Allied Sectors - Prominent central university station pushing forward alluvial soil optimizations, localized crop varieties, and extension paths in Bihar (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Bidhan Chandra Krishi Vishwavidyalaya",
+    "location": "Nadia",
+    "fees": 18000,
+    "rating": 57.64,
+    "placements": "Good",
+    "description": "Rank 16 Agriculture and Allied Sectors - Prestigious deltaic state agricultural university evaluating rice breeding systems and sub-tropical horticulture tracks in West Bengal (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Assam Agricultural University, Jorhat",
+    "location": "Jorhat",
+    "fees": 25000,
+    "rating": 57.20,
+    "placements": "Good",
+    "description": "Rank 18 Agriculture and Allied Sectors - Key northeastern flagship farming institute optimizing tea husbandry techniques, acid soil profiles, and hillside terrace agro-ecosystems in Assam (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Anna University",
+    "location": "Chennai",
+    "fees": 55000,
+    "rating": 76.06,
+    "placements": "Excellent",
+    "description": "Rank 2 State Public University; Rank 9 Innovation - Premier state technical university with elite engineering and incubation infrastructure in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indian Institute of Technology Mandi",
+    "location": "Mandi",
+    "fees": 215000,
+    "rating": 65.50,
+    "placements": "Excellent",
+    "description": "Rank 10 Innovation - Highly cutting-edge eco-conscious technical campus driving product design and technology ventures in Himachal Pradesh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indira Gandhi National Open University (IGNOU)",
+    "location": "New Delhi",
+    "fees": 6000,
+    "rating": 85.00,
+    "placements": "Good",
+    "description": "Rank 1 Open University - India's apex pioneer central open learning university hub headquartered in Delhi (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Karnataka State Open University, Mysore",
+    "location": "Mysore",
+    "fees": 7500,
+    "rating": 72.00,
+    "placements": "Good",
+    "description": "Rank 2 Open University - Leading distance learning state university center providing wide education access corridors in Karnataka (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "U.P. Rajarshi Tandon Open University, Allahabad",
+    "location": "Prayagraj (Allahabad)",
+    "fees": 6500,
+    "rating": 64.00,
+    "placements": "Good",
+    "description": "Rank 3 Open University - Reputed state distance learning platform scaling higher education reach across Uttar Pradesh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Symbiosis Skills and Professional University (Formerly Symbiosis Skill and Open University)",
+    "location": "Pune",
+    "fees": 250000,
+    "rating": 74.00,
+    "placements": "Excellent",
+    "description": "Rank 1 Skill University - Highly pioneering flagship vocational and hands-on professional learning ecosystem in Maharashtra (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Symbiosis University of Applied Sciences",
+    "location": "Indore",
+    "fees": 260000,
+    "rating": 68.00,
+    "placements": "Excellent",
+    "description": "Rank 2 Skill University - Elite specialized skill architecture center scaling industry-aligned capability and technical trades in Madhya Pradesh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Shri Vishwakarma Skill University",
+    "location": "Palwal",
+    "fees": 35000,
+    "rating": 61.00,
+    "placements": "Good",
+    "description": "Rank 3 Skill University - India's first state statutory skill university structured to drive vocational education and dual models in Haryana (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Andhra University, Visakhapatnam",
+    "location": "Visakhapatnam",
+    "fees": 32000,
+    "rating": 68.91,
+    "placements": "Good",
+    "description": "Rank 4 State Public University - Renowned comprehensive legacy public university in Andhra Pradesh (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Kerala University",
+    "location": "Thiruvananthapuram",
+    "fees": 12000,
+    "rating": 67.93,
+    "placements": "Good",
+    "description": "Rank 5 State Public University - Historically prominent premier higher learning public campus in Kerala (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Osmania University",
+    "location": "Hyderabad",
+    "fees": 35000,
+    "rating": 65.64,
+    "placements": "Good",
+    "description": "Rank 7 State Public University - Exceptionally historic landmark state university setup in Telangana (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "University of Kashmir",
+    "location": "Srinagar",
+    "fees": 22000,
+    "rating": 65.17,
+    "placements": "Good",
+    "description": "Rank 8 State Public University - Top tier regional learning destination and cultural scholarship focus in Jammu and Kashmir (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Gauhati University",
+    "location": "Guwahati",
+    "fees": 18000,
+    "rating": 64.24,
+    "placements": "Good",
+    "description": "Rank 9 State Public University - Oldest and most historic premier public university corridor in Assam (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Bharathiar University",
+    "location": "Coimbatore",
+    "fees": 25000,
+    "rating": 64.09,
+    "placements": "Good",
+    "description": "Rank 10 State Public University - Highly rated public campus driving research across arts and pure sciences in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Savitribai Phule Pune University",
+    "location": "Pune",
+    "fees": 30000,
+    "rating": 63.58,
+    "placements": "Good",
+    "description": "Rank 11 State Public University - Highly prestigious multi spectrum state architecture for higher education in Maharashtra (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Mumbai University",
+    "location": "Mumbai",
+    "fees": 35000,
+    "rating": 63.55,
+    "placements": "Good",
+    "description": "Rank 12 State Public University - Crucial landmark mega scale metropolitan state public university system in Maharashtra (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Delhi Technological University",
+    "location": "New Delhi",
+    "fees": 210000,
+    "rating": 63.50,
+    "placements": "Excellent",
+    "description": "Rank 13 State Public University - Elite premier technical engineering state campus in Delhi (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Alagappa University",
+    "location": "Karaikudi",
+    "fees": 15000,
+    "rating": 62.82,
+    "placements": "Good",
+    "description": "Rank 14 State Public University - Highly acclaimed progressive state institution fueling qualitative rural educational metrics in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1562774053-701939374585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Calcutta University",
+    "location": "Kolkata",
+    "fees": 4500,
+    "rating": 62.75,
+    "placements": "Good",
+    "description": "Rank 15 State Public University - Deeply historic legacy higher education standard public center in West Bengal (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Bharathidasan University",
+    "location": "Tiruchirappalli",
+    "fees": 20000,
+    "rating": 62.45,
+    "placements": "Good",
+    "description": "Rank 16 State Public University - Renowned public university setup driving technological and structural study domains in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Mahatma Gandhi University, Cottayam",
+    "location": "Kottayam",
+    "fees": 14000,
+    "rating": 61.97,
+    "placements": "Good",
+    "description": "Rank 17 State Public University - Exceptionally prominent state public center engineering critical sub-tropical research in Kerala (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "University of Madras",
+    "location": "Chennai",
+    "fees": 12000,
+    "rating": 61.43,
+    "placements": "Good",
+    "description": "Rank 18 State Public University - Exceptionally historic foundation cornerstone campus for higher learning framework setups in Tamil Nadu (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "name": "Indraprastha Institute of Information Technology",
+    "location": "New Delhi",
+    "fees": 425000,
+    "rating": 58.12,
+    "placements": "Excellent",
+    "description": "Rank 19 State Public University - Highly focused cutting-edge state technical center optimized for advanced computing and computing science research in Delhi (IIIT Delhi) (NIRF)",
+    "imageurl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  }
+]
