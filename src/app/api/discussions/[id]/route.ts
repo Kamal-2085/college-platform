@@ -7,12 +7,12 @@ import discussionAnswerModel from "@/models/discussionAnswer";
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { id: string } },
+  context: { params: Promise<{ id: string }> },
 ) {
   try {
     await connectdb();
 
-    const { id } = params;
+    const { id } = await context.params;
     if (!mongoose.Types.ObjectId.isValid(id)) {
       return NextResponse.json(
         { success: false, message: "Invalid discussion ID" },
