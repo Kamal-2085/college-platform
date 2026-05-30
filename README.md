@@ -1,40 +1,71 @@
-# college-platform
+# College Compass
 
-A college discovery platform featuring searchable listings with filters and pagination, rich college detail pages (overview, courses, placements, reviews), side-by-side comparisons for 2-3 colleges, and secure authentication with saved colleges and saved comparisons.
+Full-stack college discovery platform with search, filters, comparisons, authentication, and saved items.
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Features
 
-## Getting Started
+- Searchable college listings with filters and pagination
+- Side-by-side comparison for 2-3 colleges
+- Email OTP signup, password login, access/refresh tokens
+- Saved colleges and comparisons per user
 
-First, run the development server:
+## Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- Next.js App Router
+- MongoDB + Mongoose
+- JWT auth + refresh tokens
+- Nodemailer for OTP and welcome email
+
+## Environment Variables
+
+Create a `.env.local` file (or copy `.env.example`) and provide the following:
+
+```
+MONGODB_URI=
+JWT_SECRET=
+SMTP_HOST=
+SMTP_PORT=587
+SMTP_SECURE=false
+SMTP_USER=
+SMTP_PASS=
+SMTP_FROM=College Compass <no-reply@collegecompass.com>
+HUGGINGFACE_API_KEY=
+HUGGINGFACE_MODEL=google/flan-t5-large
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Notes:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- For Gmail, use `smtp.gmail.com` and an App Password.
+- `JWT_SECRET` should be a long random string.
+- Set `HUGGINGFACE_API_KEY` to enable the predictor tool. Optionally set `HUGGINGFACE_MODEL` to override the default model.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Local Development
 
-## Learn More
+```bash
+npm install
+npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+Visit http://localhost:3000
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Vercel
 
-## Deploy on Vercel
+1. Push the repo to GitHub.
+2. Import the project in Vercel.
+3. Add the environment variables from `.env.example` in the Vercel dashboard.
+4. Deploy.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Other hosts (Render/Railway/DigitalOcean)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Set the same environment variables.
+2. Use build command: `npm run build`
+3. Use start command: `npm run start`
+
+## Production Checklist
+
+- Set `NODE_ENV=production`
+- Verify SMTP credentials
+- Use a strong `JWT_SECRET`
+- Ensure MongoDB IP access allows your host
