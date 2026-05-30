@@ -180,7 +180,7 @@ export async function DELETE(request: NextRequest) {
       );
     }
 
-    const uniqueIds = [...new Set<string>(collegeIds)];
+    const uniqueIds: string[] = [...new Set<string>(collegeIds)];
     if (uniqueIds.length !== collegeIds.length) {
       return NextResponse.json(
         { success: false, message: "Duplicate college IDs are not allowed" },
