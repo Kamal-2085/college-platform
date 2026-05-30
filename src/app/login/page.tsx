@@ -4,12 +4,14 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { Fraunces, Sora } from "next/font/google";
+import { useAuth } from "@/components/auth-provider";
 
 const sora = Sora({ subsets: ["latin"], weight: ["400", "600", "700"] });
 const fraunces = Fraunces({ subsets: ["latin"], weight: ["600", "700"] });
 
 export default function LoginPage() {
   const router = useRouter();
+  const { setUser } = useAuth();
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
@@ -33,6 +35,7 @@ export default function LoginPage() {
         return;
       }
 
+      setUser(data?.user || null);
       router.push("/");
     } catch (err) {
       setError("Failed to log in");
@@ -42,7 +45,9 @@ export default function LoginPage() {
   };
 
   return (
-    <div className={`${sora.className} min-h-screen bg-[#f4efe7] text-zinc-900`}>
+    <div
+      className={`${sora.className} min-h-screen bg-[#f4efe7] text-zinc-900`}
+    >
       <div className="bg-[radial-gradient(80%_60%_at_50%_0%,#f5d6a4_0%,#f4efe7_55%,#efe9dd_100%)]">
         <div className="mx-auto w-full max-w-5xl px-6 pb-12 pt-16">
           <div className="grid gap-8 lg:grid-cols-[1.05fr_0.95fr]">

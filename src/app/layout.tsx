@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import Link from "next/link";
+import { AuthProvider } from "@/components/auth-provider";
+import { SiteHeader } from "@/components/site-header";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -29,43 +30,10 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col bg-black text-white">
-        <header className="sticky top-0 z-20 border-b border-zinc-800 bg-black/80 backdrop-blur">
-          <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-4">
-            <Link href="/" className="text-lg font-semibold">
-              College Compass
-            </Link>
-            <nav className="flex flex-wrap items-center gap-4 text-sm text-zinc-300">
-              <Link className="hover:text-white" href="/college">
-                Colleges
-              </Link>
-              <Link className="hover:text-white" href="/compare">
-                Compare
-              </Link>
-              <Link className="hover:text-white" href="/predictor">
-                Predictor
-              </Link>
-              <Link className="hover:text-white" href="/discussions">
-                Discussions
-              </Link>
-              <Link className="hover:text-white" href="/saved-colleges">
-                Saved Colleges
-              </Link>
-              <Link className="hover:text-white" href="/saved-comparisons">
-                Saved Comparisons
-              </Link>
-              <Link className="hover:text-white" href="/login">
-                Login
-              </Link>
-              <Link
-                className="rounded-full border border-zinc-600 px-3 py-1 hover:border-white hover:text-white"
-                href="/signup"
-              >
-                Sign Up
-              </Link>
-            </nav>
-          </div>
-        </header>
-        <main className="flex-1">{children}</main>
+        <AuthProvider>
+          <SiteHeader />
+          <main className="flex-1">{children}</main>
+        </AuthProvider>
       </body>
     </html>
   );
