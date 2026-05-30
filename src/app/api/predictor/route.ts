@@ -111,7 +111,7 @@ export async function POST(request: Request) {
     }
 
     const rank = rankValue ? Number(rankValue) : null;
-    if (rankValue && (Number.isNaN(rank) || rank <= 0)) {
+    if (rankValue && (rank === null || Number.isNaN(rank) || rank <= 0)) {
       return NextResponse.json(
         { success: false, message: "Rank must be a positive number" },
         { status: 400 },
