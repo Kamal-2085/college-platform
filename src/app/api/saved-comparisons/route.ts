@@ -71,7 +71,9 @@ export async function POST(request: NextRequest) {
 
     const body = await request.json();
     const collegeIds = Array.isArray(body?.collegeIds)
-      ? body.collegeIds
+      ? body.collegeIds.filter(
+          (id: unknown): id is string => typeof id === "string",
+        )
       : [];
 
     if (collegeIds.length < 2 || collegeIds.length > 3) {
@@ -82,13 +84,13 @@ export async function POST(request: NextRequest) {
     }
 
     const invalidIds = collegeIds.filter(
-      (id: string) => !mongoose.Types.ObjectId.isValid(id)
+      (id: string) => !mongoose.Types.ObjectId.isValid(id),
     );
 
     if (invalidIds.length) {
       return NextResponse.json(
         { success: false, message: "Invalid college ID in request" },
-        { status: 400 }
+        { status: 400 },
       );
     }
 
@@ -96,7 +98,7 @@ export async function POST(request: NextRequest) {
     if (uniqueIds.length !== collegeIds.length) {
       return NextResponse.json(
         { success: false, message: "Duplicate college IDs are not allowed" },
-        { status: 400 }
+        { status: 400 },
       );
     }
 
@@ -107,7 +109,7 @@ export async function POST(request: NextRequest) {
     if (existingCount !== uniqueIds.length) {
       return NextResponse.json(
         { success: false, message: "One or more colleges not found" },
-        { status: 404 }
+        { status: 404 },
       );
     }
 
@@ -155,7 +157,9 @@ export async function DELETE(request: NextRequest) {
 
     const body = await request.json();
     const collegeIds = Array.isArray(body?.collegeIds)
-      ? body.collegeIds
+      ? body.collegeIds.filter(
+          (id: unknown): id is string => typeof id === "string",
+        )
       : [];
 
     if (collegeIds.length < 2 || collegeIds.length > 3) {
@@ -166,13 +170,13 @@ export async function DELETE(request: NextRequest) {
     }
 
     const invalidIds = collegeIds.filter(
-      (id: string) => !mongoose.Types.ObjectId.isValid(id)
+      (id: string) => !mongoose.Types.ObjectId.isValid(id),
     );
 
     if (invalidIds.length) {
       return NextResponse.json(
         { success: false, message: "Invalid college ID in request" },
-        { status: 400 }
+        { status: 400 },
       );
     }
 
@@ -180,7 +184,7 @@ export async function DELETE(request: NextRequest) {
     if (uniqueIds.length !== collegeIds.length) {
       return NextResponse.json(
         { success: false, message: "Duplicate college IDs are not allowed" },
-        { status: 400 }
+        { status: 400 },
       );
     }
 
